@@ -1,6 +1,6 @@
 # UCSF-DSOS-Python-SQL-Fall-Workshops
 
-Code and Data for the 2024 Fall Python/SQL fall workshop series at the UCSF Library
+Code and Data for the Python/SQL workshop series at the UCSF Library
 
 - [Intro to Python Part 1: Variables, Lists, Loops, Conditionals](#intro-to-python-part-1-variables-lists-loops-conditionals)
 - [Intro to Python and SQL Part 1](#intro-to-python-and-sql-part-1)
