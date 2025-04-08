@@ -1,7 +1,8 @@
-# 2024-UCSF-DSOS-Python-SQL-Fall-Workshops
+# UCSF-DSOS-Python-SQL-Fall-Workshops
 
 Code and Data for the 2024 Fall Python/SQL fall workshop series at the UCSF Library
 
+- [Intro to Python Part 1: Variables, Lists, Loops, Conditionals](#intro-to-python-part-1-variables-lists-loops-conditionals)
 - [Intro to Python and SQL Part 1](#intro-to-python-and-sql-part-1)
 - [Intro to Python and SQL Part 2](#intro-to-python-and-sql-part-2)
 - [Python and Web APIs](#python-and-web-apis)
@@ -12,6 +13,25 @@ Code and Data for the 2024 Fall Python/SQL fall workshop series at the UCSF Libr
 - [Classification Sentiment Analysis and Topic Modeling using Cloud Based APIs](#classification-sentiment-analysis-and-topic-modeling-using-cloud-based-apis)
 - [Sharing Versioning and Collaborating with Git and Github](#sharing-versioning-and-collaborating-with-git-and-github)
 
+## Intro to Python Part 1 Variables Lists Loops Conditionals
+(04/04/25)
+
+In this workshop, we followed the tutorial material for the Plotting and Programming tutorial from Software Carpentry. 
+
+https://swcarpentry.github.io/python-novice-gapminder/
+
+Our coding examples will differ somewhat from the tutorial material - you're encouraged to go back and read through to review the material and cover sections we may have skipped. 
+
+### variables-functions.ipynb
+
+* Ch2: Variables and Assignment
+* Ch3: Data Types and Type Conversion 
+
+### lists-loops-conditionals.ipynb
+
+* Ch11: Lists
+* Ch12: Loops
+* Ch13: Conditionals
 
 ## Intro to Python and SQL Part 1 
 (10/4/24)
