@@ -35,6 +35,7 @@ Our coding examples will differ somewhat from the tutorial material - you're enc
 * Ch13: Conditionals
 
 ## Intro to Python Part 2 Pandas and Graphing
+(04/11/25)
 
 In this workshop, we continued with the tutorial material for the Plotting and Programming tutorial from Software Carpentry, moving into Pandas DataFrames and Maplotlib for plotting and graphing. 
 
