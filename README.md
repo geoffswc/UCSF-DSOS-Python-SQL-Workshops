@@ -3,6 +3,7 @@
 Code and Data for the Python/SQL workshop series at the UCSF Library
 
 - [Intro to Python Part 1: Variables, Lists, Loops, Conditionals](#intro-to-python-part-1-variables-lists-loops-conditionals)
+- [Intro to Python Part 2: Pandas and Graphing](#intro-to-python-part-2-pandas-and-graphing)
 - [Intro to Python and SQL Part 1](#intro-to-python-and-sql-part-1)
 - [Intro to Python and SQL Part 2](#intro-to-python-and-sql-part-2)
 - [Python and Web APIs](#python-and-web-apis)
@@ -32,6 +33,30 @@ Our coding examples will differ somewhat from the tutorial material - you're enc
 * Ch11: Lists
 * Ch12: Loops
 * Ch13: Conditionals
+
+## Intro to Python Part 2 Pandas and Graphing
+
+In this workshop, we continued with the tutorial material for the Plotting and Programming tutorial from Software Carpentry, moving into Pandas DataFrames and Maplotlib for plotting and graphing. 
+
+https://swcarpentry.github.io/python-novice-gapminder/
+
+### Lists-Averages.ipynb
+
+In this workbook, we use list operations, loops, and conditionals to show how to calculate the average of a list of values.
+
+### Pandas-Dataframes.ipynb
+
+In this workbook, we loaded data into a pandas dataframe and generates summary statistics
+
+### Colab-Pandas-Dataframe.ipynb
+
+For this workbook, we switched over to Colab and continued with pandas operations, followed by graphing and plotting. 
+
+### Additional Material
+
+For more workbooks from the software carpentry tutorial on this topic, please see:
+
+https://github.com/geoffswc/IntroToPythonPart2
 
 ## Intro to Python and SQL Part 1 
 (10/4/24)
