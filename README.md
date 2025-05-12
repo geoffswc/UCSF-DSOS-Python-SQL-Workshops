@@ -117,6 +117,9 @@ In this workbook, we queried the National Library of Medicine's public API for i
 ### Industry-Documents-API.ipynb
 We created this workbook on google colab. We queried and parsed information from the Industry Documents Library API, and used generative AI to parse and extract data. 
 
+### Industry-Documents-ApiB.ipynb
+We created this workbook using jupyter notebook locally. This workbook contains similar material to the notebook above, but I'm including it because it includes a code fix to an error I made in using the API during the workshop (I also wanted to include this because it's an error I've made before and there's a little nuance ot it, so I think it may be useful to have it documented so you're aware of this if you use the payload approach to building a URL to query the IDL API using Python or other programming languages). 
+
 ## Image Audio and Video to Text Transcription with Python
 (10/25/24)
 
