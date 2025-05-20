@@ -9,6 +9,7 @@ Code and Data for the Python/SQL workshop series at the UCSF Library
 - [Python and Web APIs](#python-and-web-apis)
 - [Image Audio and Video to Text Transcription with Python](#image-audio-and-video-to-text-transcription-with-python)
 - [Python Background for Text Analysis and Natural Language Processing](#python-background-for-text-analysis-and-natural-language-processing)
+- [Predicting Covid Test Outcome with Scikit-Learn](#predicting-covid-test-outcome-with-scikit-learn)
 - [Document Classification with Scikit-Learn](#document-classification-with-scikit-learn)
 - [Document Topic Modeling with Python](#document-topic-modeling-with-python)
 - [Classification Sentiment Analysis and Topic Modeling using Cloud Based APIs](#classification-sentiment-analysis-and-topic-modeling-using-cloud-based-apis)
@@ -216,6 +217,13 @@ For the second part of the workshop, we applied the same techniques we used for 
 
 For data, we used a collection of opiod documents from the washington post, hosted in the Industry Documents Library.
 * https://ucsf.app.box.com/v/IDL-DataSets/file/780928732201
+
+## Predicting Covid Test Outcome with Scikit-Learn
+
+In this workshop, we introduced machine learning through a series of examples focused on predicting a covid test outcome based on symptoms.
+
+For workbooks and tutorial links, please see the github repo "Covid Test Predictions": https://github.com/geoffswc/Covid-Test-Predictions
+
 
 ## Document Classification With Scikit Learn
 
