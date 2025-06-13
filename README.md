@@ -12,7 +12,7 @@ Code and Data for the Python/SQL workshop series at the UCSF Library
 - [Predicting Covid Test Outcome with Scikit-Learn](#predicting-covid-test-outcome-with-scikit-learn)
 - [Document Classification with Scikit-Learn](#document-classification-with-scikit-learn)
 - [Document Topic Modeling with Python](#document-topic-modeling-with-python)
-- [Classification Sentiment Analysis and Topic Modeling using Cloud Based APIs](#classification-sentiment-analysis-and-topic-modeling-using-cloud-based-apis)
+- [Classification Sentiment Analysis and Topic Modeling using Pre Trained APIs](#classification-sentiment-analysis-and-topic-modeling-using-pre-trained-apis)
 - [Sharing Versioning and Collaborating with Git and Github](#sharing-versioning-and-collaborating-with-git-and-github)
 
 ## Intro to Python Part 1 Variables Lists Loops Conditionals
@@ -263,7 +263,7 @@ https://www.tidytextmining.com/topicmodeling
 
 You may notice this link is from a topic tutorial using R, which is widely used along with Python for data science. For now, you can stick to reading the overview for how LDA works, the implementation in different programming languages will be similar (though not necessarily identical!) 
 
-## Classification Sentiment Analysis and Topic Modeling using Cloud Based APIs
+## Classification Sentiment Analysis and Topic Modeling using Pre Trained APIs
 
 In this workshop, we reviewed a few different methods for accessing pre-trained classification and sentiment analysis models. The first technology, Google Cloud API, was presented as a demo as it requires a paid account. The next two, VADER and HuggingFace, involved hands-on coding in Google Colab, though these workbooks should run locally through Jupyter Notebook on your local machine as well.
 
