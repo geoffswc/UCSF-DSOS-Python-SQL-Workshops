@@ -15,7 +15,7 @@ Code and Data for the Python/SQL workshop series at the UCSF Library
 - [Document Topic Modeling with Python](#document-topic-modeling-with-python)
 - [Classification Sentiment Analysis and Topic Modeling using Pre Trained APIs](#classification-sentiment-analysis-and-topic-modeling-using-pre-trained-apis)
 - [Sharing Versioning and Collaborating with Git and Github](#sharing-versioning-and-collaborating-with-git-and-github)
-- [Cloud Based SQL Database and AI Integrations](#cloud-based-database-and-ai-integrations)
+- [Cloud Based SQL Database and AI Integrations](#cloud-based-sql-database-and-ai-integrations)
 
 ## Intro to Python Part 1 Variables Lists Loops Conditionals
 (04/04/25)
