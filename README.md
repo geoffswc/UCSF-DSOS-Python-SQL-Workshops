@@ -15,6 +15,7 @@ Code and Data for the Python/SQL workshop series at the UCSF Library
 - [Document Topic Modeling with Python](#document-topic-modeling-with-python)
 - [Classification Sentiment Analysis and Topic Modeling using Pre Trained APIs](#classification-sentiment-analysis-and-topic-modeling-using-pre-trained-apis)
 - [Sharing Versioning and Collaborating with Git and Github](#sharing-versioning-and-collaborating-with-git-and-github)
+- [Cloud Based SQL Database and AI Integrations](#cloud-based-database-and-ai-integrations)
 
 ## Intro to Python Part 1 Variables Lists Loops Conditionals
 (04/04/25)
@@ -315,8 +316,11 @@ The software carpentry tutorial is available at: https://swcarpentry.github.io/g
 
 For a recording of a previous version of this workshop in the UCSF CLE: https://courses.ucsf.edu/course/view.php?id=5208
 
+## Cloud Based SQL Database and AI Integrations
 
+For this section of the workshop, we used the Google BigQuery sandbox, which is available without a paid account. Hands on-exercises included how to access public datasets, upload a dataset, and run SQL queries. Because ML/AI features are not available through the SandBox, these were covered through a demo.
 
+https://cloud.google.com/bigquery/docs/sandbox
 
 
 
