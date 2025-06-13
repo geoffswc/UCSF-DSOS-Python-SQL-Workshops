@@ -8,6 +8,7 @@ Code and Data for the Python/SQL workshop series at the UCSF Library
 - [Intro to Python and SQL Part 2](#intro-to-python-and-sql-part-2)
 - [Python and Web APIs](#python-and-web-apis)
 - [Image Audio and Video to Text Transcription with Python](#image-audio-and-video-to-text-transcription-with-python)
+- [Image Annotation and Object Detection](#image-annotation-and-object-detection)
 - [Python Background for Text Analysis and Natural Language Processing](#python-background-for-text-analysis-and-natural-language-processing)
 - [Predicting Covid Test Outcome with Scikit-Learn](#predicting-covid-test-outcome-with-scikit-learn)
 - [Document Classification with Scikit-Learn](#document-classification-with-scikit-learn)
@@ -122,7 +123,6 @@ We created this workbook on google colab. We queried and parsed information from
 We created this workbook using jupyter notebook locally. This workbook contains similar material to the notebook above, but I'm including it because it includes a code fix to an error I made in using the API during the workshop (I also wanted to include this because it's an error I've made before and there's a little nuance ot it, so I think it may be useful to have it documented so you're aware of this if you use the payload approach to building a URL to query the IDL API using Python or other programming languages). 
 
 ## Image Audio and Video to Text Transcription with Python
-(10/25/24)
 
 In this workshop, we wrote Python Code using Google Colab to extract transcripts from image and video files on the Industry Archives.
 
@@ -190,8 +190,18 @@ For a test transcription demo, we used a file from the Industry Archives, a coll
 
 One interesting result is that some of the larger language models repeated phrases that weren't evidently present in the video. Hard to know why - it could be hallucination from the AI system, though one participant raised the possibility that larger models might pick up on background music. I listened carefully to the video again and didn't hear any of these phrases, but it's still possible that the larger more powerful models are attempting to transcribe musical notes into words while smaller models just ignore it (this is a guess, I don't really know). 
 
+## Image Annotation and Object Detection
+
+### TensorFlow_Labels.ipynb
+
+This workbook demonstrates how to assign generalized object labels using tensorflow. 
+Workbook available at https://github.com/geoffswc/Libguide-AI-Tools-Archival-Research/blob/main/TensorFlow_Labels.ipynb
+
+### Google Object Detection
+
+Because the Google API requires a paid account, we didn't use it for a hands on programming demo. However, you can demo the vision API and view JSON and visual output at: https://cloud.google.com/vision
+
 ## Python Background for Text Analysis and Natural Language Processing 
-(11/1/24)
 
 This workshop covered programming techiques for cleaning and preparing text data for machine learning and natural language processing projects.
 Much of the material for this week's workshop is available in:
