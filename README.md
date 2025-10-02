@@ -18,20 +18,20 @@ Furthermore, in our previous workshop series, programming progressed from writin
 
 ## Table of Contents
 
-- [Intro to Python Part 1: Variables, Lists, Loops, Conditionals](#intro-to-python-part-1-variables-lists-loops-conditionals)
-- [Intro to Python Part 2: Pandas and Graphing](#intro-to-python-part-2-pandas-and-graphing)
-- [Intro to Python and SQL Part 1: Data Loading and Exploration](#intro-to-python-and-sql-part-1-data-loading-and-exploration)
-- [Intro to Python and SQL Part 2: Mock Data and Querying](#intro-to-python-and-sql-part-2-mock-data-and-querying)
-- [Python and Web APIs: Working with Dictionaries and JSON](#python-and-web-apis-working-with-dictionaries-and-json)
-- [Image, Audio, and Video to Text Transcription with Python](#image-audio-and-video-to-text-transcription-with-python)
-- [Image Annotation and Object Detection](#image-annotation-and-object-detection)
-- [Python Background for Text Analysis and Natural Language Processing](#python-background-for-text-analysis-and-natural-language-processing)
-- [Predicting COVID Test Outcome with Scikit-Learn](#predicting-covid-test-outcome-with-scikit-learn)
-- [Document Classification with Scikit-Learn](#document-classification-with-scikit-learn)
-- [Document Topic Modeling with Python](#document-topic-modeling-with-python)
-- [Classification, Sentiment Analysis, and Topic Modeling Using Pre-Trained APIs](#classification-sentiment-analysis-and-topic-modeling-using-pre-trained-apis)
-- [Sharing, Versioning, and Collaborating with Git and GitHub](#sharing-versioning-and-collaborating-with-git-and-github)
-- [Cloud-Based SQL Database and AI Integrations](#cloud-based-sql-database-and-ai-integrations)
+1) [Intro to Python Part 1: Variables, Lists, Loops, Conditionals](#intro-to-python-part-1-variables-lists-loops-conditionals)
+2) [Intro to Python Part 2: Pandas and Graphing](#intro-to-python-part-2-pandas-and-graphing)
+3)  [Intro to Python and SQL Part 1: Data Loading and Exploration](#intro-to-python-and-sql-part-1-data-loading-and-exploration)
+4) [Intro to Python and SQL Part 2: Mock Data and Querying](#intro-to-python-and-sql-part-2-mock-data-and-querying)
+5) [Python and Web APIs: Working with Dictionaries and JSON](#python-and-web-apis-working-with-dictionaries-and-json)
+6) [Image, Audio, and Video to Text Transcription with Python](#image-audio-and-video-to-text-transcription-with-python)
+7) [Image Annotation and Object Detection](#image-annotation-and-object-detection)
+8) [Python Background for Text Analysis and Natural Language Processing](#python-background-for-text-analysis-and-natural-language-processing)
+9) [Predicting COVID Test Outcome with Scikit-Learn](#predicting-covid-test-outcome-with-scikit-learn)
+10) [Document Classification with Scikit-Learn](#document-classification-with-scikit-learn)
+11) [Document Topic Modeling with Python](#document-topic-modeling-with-python)
+12) [Classification, Sentiment Analysis, and Topic Modeling Using Pre-Trained APIs](#classification-sentiment-analysis-and-topic-modeling-using-pre-trained-apis)
+13) [Sharing, Versioning, and Collaborating with Git and GitHub](#sharing-versioning-and-collaborating-with-git-and-github)
+14) [Cloud-Based SQL Database and AI Integrations](#cloud-based-sql-database-and-ai-integrations)
 
 ---
 
