@@ -157,7 +157,7 @@ Focuses on converting multimedia content to text using optical character recogni
   Exploring other OCR tools.
 - [Whisper_AI_Transcription.ipynb](Whisper_AI_Transcription.ipynb)  
   Audio/video transcription workflows.
-- [Whisper-Diarized-Pipeline.ipynb](Whisper-Diarized-Pipeline.ipynb)  
+- [Whisper_Diarized_Pipeline.ipynb](Whisper_Diarized_Pipeline.ipynb)  
   Diarization for speaker separation.
 
 ---
