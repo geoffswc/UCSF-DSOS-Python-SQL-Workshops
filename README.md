@@ -191,6 +191,21 @@ For a test transcription demo, we used a file from the Industry Archives, a coll
 
 One interesting result is that some of the larger language models repeated phrases that weren't evidently present in the video. Hard to know why - it could be hallucination from the AI system, though one participant raised the possibility that larger models might pick up on background music. I listened carefully to the video again and didn't hear any of these phrases, but it's still possible that the larger more powerful models are attempting to transcribe musical notes into words while smaller models just ignore it (this is a guess, I don't really know). 
 
+### Whisper-Diarized-Pipeline.ipynb
+
+This script provides a pipeline for generating diarized transcriptions—text transcripts with speaker labels and timestamps—from publicly available video recordings. It is designed for use in research contexts where identifying who said what and when is critical (e.g., interviews, testimonies, or qualitative studies). This approach is designed to rely only on open source software run locally without the need for an external connection to an API (such as HuggingFace, which can be effective for diarization). 
+
+The workflow includes:
+1) Downloading video files from the Internet Archive.
+2) Extracting and chunking audio into 5-minute segments.
+3) Performing automatic transcription using the Whisper model (with word-level timestamps).
+4) Performing speaker diarization using Resemblyzer to compute voice embeddings, and KMeans clustering to separate speakers.
+5) Aligning transcription segments with speaker identities.
+6) Writing the resulting diarized transcripts to plain text files in Google Drive.
+
+This pipeline enables scalable processing of large collections of spoken media for downstream analysis. 
+
+
 ## Image Annotation and Object Detection
 
 ### TensorFlow_Labels.ipynb
