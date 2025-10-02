@@ -36,9 +36,9 @@ This section introduces fundamental Python programming concepts including variab
 ### Resources:
 - [Software Carpentry Python Novice Gapminder Tutorial](https://swcarpentry.github.io/python-novice-gapminder/)
 - Notebooks:
-  - **variables-functions.ipynb**  
+  - [variables-functions.ipynb](variables-functions.ipynb)  
     Focus on variables, assignment, and basic functions.
-  - **lists-loops-conditionals.ipynb**  
+  - [lists-loops-conditionals.ipynb](lists-loops-conditionals.ipynb)  
     Covers list manipulation, loops, and conditional statements.
 
 ---
@@ -56,11 +56,11 @@ Building on the basics, this section introduces pandas DataFrames for data manip
 ### Resources:
 - Same [Software Carpentry Tutorial](https://swcarpentry.github.io/python-novice-gapminder/)
 - Notebooks:
-  - **Lists-Averages.ipynb**  
+  - [Lists-Averages.ipynb](Lists-Averages.ipynb)  
     Using lists and loops for calculations such as averages.
-  - **Pandas-Dataframes.ipynb**  
+  - [Pandas-Dataframes.ipynb](Pandas-Dataframes.ipynb)  
     Loading data into DataFrames and calculating descriptive statistics.
-  - **Colab-Pandas-Dataframe.ipynb**  
+  - [Colab-Pandas-Dataframe.ipynb](Colab-Pandas-Dataframe.ipynb)  
     Running pandas code in Google Colab, including visualization examples.
 - Additional material:  
   https://github.com/geoffswc/IntroToPythonPart2
@@ -77,9 +77,9 @@ Learners explore how to load datasets and analyze them using both Python and SQL
 - Using SQL queries for data manipulation within Python environments
 
 ### Resources:
-- **Python_SQL_Day_1.ipynb**  
+- [Python_SQL_Day_1.ipynb](Python_SQL_Day_1.ipynb)  
   Loading COVID testing data and exploring it in Google Colab.
-- **Oregon-Sugar-Document.ipynb**  
+- [Oregon-Sugar-Document.ipynb](Oregon-Sugar-Document.ipynb)  
   Processing tab-delimited text data relevant to archival research.
 
 Data Sources:  
@@ -98,11 +98,11 @@ This section introduces generating mock datasets and performing SQL queries, bot
 - Understanding local vs cloud-based SQL environments
 
 ### Resources:
-- **Covid_Mock_Data.ipynb**  
+- [Covid_Mock_Data.ipynb](Covid_Mock_Data.ipynb)  
   Using generative AI to create synthetic datasets.
-- **Covid_Queries.ipynb**  
+- [Covid_Queries.ipynb](Covid_Queries.ipynb)  
   Running SQL queries on COVID data in Google Colab.
-- **Covid_Queries_Local.ipynb**  
+- [Covid_Queries_Local.ipynb](Covid_Queries_Local.ipynb)  
   Local SQL querying via pandasql.
 
 ---
@@ -117,13 +117,13 @@ This section covers how to work with Python dictionaries and parse JSON data fro
 - Querying real-world biomedical and archival data APIs
 
 ### Resources:
-- **Python-Dictionaries.ipynb**  
+- [Python-Dictionaries.ipynb](Python-Dictionaries.ipynb)  
   Introduction to dictionaries and key/value storage.
-- **Caffeine-Dictionary.ipynb**  
+- [Caffeine-Dictionary.ipynb](Caffeine-Dictionary.ipynb)  
   Example project mapping caffeine content in beverages.
-- **Web-API-Python.ipynb**  
+- [Web-API-Python.ipynb](Web-API-Python.ipynb)  
   Accessing and parsing data from RXNorm API.
-- **Industry-Documents-API.ipynb** and **Industry-Documents-ApiB.ipynb**  
+- [Industry-Documents-API.ipynb](Industry-Documents-API.ipynb) and [Industry-Documents-ApiB.ipynb](Industry-Documents-ApiB.ipynb)  
   Using UCSF’s Industry Documents Library API for archival research.
 
 ---
@@ -139,13 +139,13 @@ Focuses on converting multimedia content to text using optical character recogni
 - Speaker diarization and clustering techniques
 
 ### Resources:
-- **Py_Tesseract_OCR.ipynb**  
+- [Py_Tesseract_OCR.ipynb](Py_Tesseract_OCR.ipynb)  
   Applying OCR to scanned images.
-- **Doctr_Ocr.ipynb**  
+- [Doctr_Ocr.ipynb](Doctr_Ocr.ipynb)  
   Exploring other OCR tools.
-- **Whisper_AI_Transcription.ipynb**  
+- [Whisper_AI_Transcription.ipynb](Whisper_AI_Transcription.ipynb)  
   Audio/video transcription workflows.
-- **Whisper-Diarized-Pipeline.ipynb**  
+- [Whisper-Diarized-Pipeline.ipynb](Whisper-Diarized-Pipeline.ipynb)  
   Diarization for speaker separation.
 
 ---
@@ -160,7 +160,7 @@ Introduction to annotating images and detecting objects using TensorFlow and clo
 - Exploring Google Vision API for advanced image analysis (requires paid account)
 
 ### Resources:
-- **TensorFlow_Labels.ipynb**  
+- [TensorFlow_Labels.ipynb](TensorFlow_Labels.ipynb)  
   Hands-on object labeling with TensorFlow.  
   [Notebook Link](https://github.com/geoffswc/Libguide-AI-Tools-Archival-Research/blob/main/TensorFlow_Labels.ipynb)
 - Google Vision API: https://cloud.google.com/vision
@@ -177,9 +177,9 @@ Covers foundational NLP techniques such as cleaning text, tokenization, stop wor
 - Working with multiple documents for corpus-level analysis
 
 ### Resources:
-- **Single-Text-Document.ipynb**  
+- [Single-Text-Document.ipynb](Single-Text-Document.ipynb)  
   Preprocessing a single text document.
-- **Multiple-Document.ipynb**  
+- [Multiple-Document.ipynb](Multiple-Document.ipynb)  
   Extending techniques to multiple documents.
 
 Sample dataset: https://ucsf.app.box.com/v/IDL-DataSets/file/780928732201
@@ -205,11 +205,11 @@ Explores text classification techniques including bag-of-words, random forest cl
 - Using scikit-learn pipelines for streamlined workflows
 
 ### Resources:
-- **Example-Classification-Set-DefaultDict.ipynb**  
+- [Example-Classification-Set-DefaultDict.ipynb](Example-Classification-Set-DefaultDict.ipynb)  
   Introduction to Python sets and bag-of-words.
-- **Simple-Classification-Scikit-Learn.ipynb**  
+- [Simple-Classification-Scikit-Learn.ipynb](Simple-Classification-Scikit-Learn.ipynb)  
   Applying random forest classifiers.
-- **Sentiment-Pipeline-Example.ipynb**  
+- [Sentiment-Pipeline-Example.ipynb](Sentiment-Pipeline-Example.ipynb)  
   Larger dataset sentiment analysis with pipelines.  
   Repository: https://github.com/geoffswc/Document-Classification
 
@@ -230,13 +230,13 @@ Unsupervised learning for discovering latent topics in text collections using La
 Using external APIs and libraries like Google Cloud NLP, VADER, and HuggingFace transformers for zero-shot classification, sentiment analysis, and more.
 
 ### Resources:
-- **HuggingFaceClassifier.ipynb**  
+- [HuggingFaceClassifier.ipynb](HuggingFaceClassifier.ipynb)  
   Zero-shot classification with HuggingFace models.  
   https://huggingface.co/tasks/zero-shot-classification
-- **VaderTest.ipynb**  
+- [VaderTest.ipynb](VaderTest.ipynb)  
   Sentiment analysis using VADER.  
   https://github.com/cjhutto/vaderSentiment
-- **Predict_Text_Sentiment_And_Category.ipynb**  
+- [Predict_Text_Sentiment_And_Category.ipynb](Predict_Text_Sentiment_And_Category.ipynb)  
   Demonstration of Google Cloud Language API (paid service).
 
 ---
