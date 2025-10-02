@@ -1,6 +1,18 @@
 # UCSF DSOS Python and SQL Workshop Series
 
-This is a collection of code and data resources used in Python and SQL workshops. The materials can be used for teaching foundational programming, data analysis, and AI techniques relevant to data science and archival research.
+## Overview
+
+This is a collection of code and data resources used in the UCSF Library "Document Analysis with Python, SQL, and AI" workshop series. The materials here can be used for teaching foundational programming, data analysis, and AI techniques relevant to data science, NLP, machine learning, text classification and sentiment analysis, and archival research.
+
+The series generally starts with foundational Python programming concepts and advances to more complex topics, including data analysis, document analysis, and artificial intelligence (AI)-based research. Throughout the workshops, we will dive into various data types—including numerical data, health data, text, and images/videos—and explore analysis techniques like regression, classification, and sentiment analysis. The end of the series will focus on text analysis, especially analyzing documents from the UCSF Industry Document Library.
+
+The focus of the series is to help participants build practical skills. Sessions will involve a lot of hands-on coding while keeping lectures and theory to a minimum.
+
+### Integrating AI tools and coding assistance into the workshop series
+
+Compared to past workshops we have offered, this series incorporates AI-assisted programming earlier on while still starting with the basics. Intro to Python Parts 1 and 2 and Intro to SQL will use AI sparingly. As the series progresses, we will dive into topics like web APIs, text analysis, natural language processing, machine learning, regression, document analysis, and AI system interaction, gradually incorporating more AI-driven techniques.
+
+Furthermore, in our previous workshop series, programming progressed from writing code by hand to downloading, reviewing, and modifying pre-prepared code. That process made sense as we shifted to more complex tasks, requiring less manual coding and more adjustments to existing code. Now, the emphasis is on using AI-powered systems to generate code rather than pre-written codebases. While this approach enables new developers to generate code more rapidly, it also highlights the importance of learning to review and test code. We will focus on building these skills alongside our use of AI.
 
 ---
 
