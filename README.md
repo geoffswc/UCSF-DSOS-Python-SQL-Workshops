@@ -1,4 +1,4 @@
-# UCSF DSOS Python and SQL Workshop Series
+# Data and Document Analysis with Python, SQL, and AI
 
 ## Overview
 
