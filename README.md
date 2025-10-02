@@ -135,7 +135,7 @@ This section covers how to work with Python dictionaries and parse JSON data fro
   Example project mapping caffeine content in beverages.
 - [Web-API-Python.ipynb](Web-API-Python.ipynb)  
   Accessing and parsing data from RXNorm API.
-- [Industry-Documents-API.ipynb](Industry-Documents-API.ipynb) and [Industry-Documents-ApiB.ipynb](Industry-Documents-ApiB.ipynb)  
+- [Industry_Documents_API.ipynb](Industry_Documents_API.ipynb) and [Industry-Documents-ApiB.ipynb](Industry-Documents-ApiB.ipynb)  
   Using UCSF’s Industry Documents Library API for archival research.
 
 ---
