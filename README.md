@@ -1,0 +1,260 @@
+# UCSF DSOS Python and SQL Workshop Series
+
+This is a collection of code and data resources used in Python and SQL workshops. The materials can be used for teaching foundational programming, data analysis, and AI techniques relevant to data science and archival research.
+
+---
+
+## Table of Contents
+
+- [Intro to Python Part 1: Variables, Lists, Loops, Conditionals](#intro-to-python-part-1-variables-lists-loops-conditionals)
+- [Intro to Python Part 2: Pandas and Graphing](#intro-to-python-part-2-pandas-and-graphing)
+- [Intro to Python and SQL Part 1: Data Loading and Exploration](#intro-to-python-and-sql-part-1-data-loading-and-exploration)
+- [Intro to Python and SQL Part 2: Mock Data and Querying](#intro-to-python-and-sql-part-2-mock-data-and-querying)
+- [Python and Web APIs: Working with Dictionaries and JSON](#python-and-web-apis-working-with-dictionaries-and-json)
+- [Image, Audio, and Video to Text Transcription with Python](#image-audio-and-video-to-text-transcription-with-python)
+- [Image Annotation and Object Detection](#image-annotation-and-object-detection)
+- [Python Background for Text Analysis and Natural Language Processing](#python-background-for-text-analysis-and-natural-language-processing)
+- [Predicting COVID Test Outcome with Scikit-Learn](#predicting-covid-test-outcome-with-scikit-learn)
+- [Document Classification with Scikit-Learn](#document-classification-with-scikit-learn)
+- [Document Topic Modeling with Python](#document-topic-modeling-with-python)
+- [Classification, Sentiment Analysis, and Topic Modeling Using Pre-Trained APIs](#classification-sentiment-analysis-and-topic-modeling-using-pre-trained-apis)
+- [Sharing, Versioning, and Collaborating with Git and GitHub](#sharing-versioning-and-collaborating-with-git-and-github)
+- [Cloud-Based SQL Database and AI Integrations](#cloud-based-sql-database-and-ai-integrations)
+
+---
+
+## Intro to Python Part 1: Variables, Lists, Loops, Conditionals
+
+This section introduces fundamental Python programming concepts including variables, data types, lists, loops, and conditionals. It follows the Software Carpentry Python Novice Gapminder tutorial to provide hands-on examples and exercises.
+
+### Key Topics:
+- Creating and using variables
+- Understanding data types and type conversion
+- Working with lists
+- Writing loops and conditionals
+
+### Resources:
+- [Software Carpentry Python Novice Gapminder Tutorial](https://swcarpentry.github.io/python-novice-gapminder/)
+- Notebooks:
+  - **variables-functions.ipynb**  
+    Focus on variables, assignment, and basic functions.
+  - **lists-loops-conditionals.ipynb**  
+    Covers list manipulation, loops, and conditional statements.
+
+---
+
+## Intro to Python Part 2: Pandas and Graphing
+
+Building on the basics, this section introduces pandas DataFrames for data manipulation and matplotlib for basic graphing and visualization. The aim is to help learners work effectively with tabular data.
+
+### Key Topics:
+- Working with pandas DataFrames
+- Importing and cleaning data
+- Generating summary statistics
+- Creating basic visualizations using matplotlib
+
+### Resources:
+- Same [Software Carpentry Tutorial](https://swcarpentry.github.io/python-novice-gapminder/)
+- Notebooks:
+  - **Lists-Averages.ipynb**  
+    Using lists and loops for calculations such as averages.
+  - **Pandas-Dataframes.ipynb**  
+    Loading data into DataFrames and calculating descriptive statistics.
+  - **Colab-Pandas-Dataframe.ipynb**  
+    Running pandas code in Google Colab, including visualization examples.
+- Additional material:  
+  https://github.com/geoffswc/IntroToPythonPart2
+
+---
+
+## Intro to Python and SQL Part 1: Data Loading and Exploration
+
+Learners explore how to load datasets and analyze them using both Python and SQL. Example datasets include COVID testing data and tab-delimited text from the UCSF Industry Documents Library.
+
+### Key Topics:
+- Reading data files into pandas
+- Basic data exploration and cleaning
+- Using SQL queries for data manipulation within Python environments
+
+### Resources:
+- **Python_SQL_Day_1.ipynb**  
+  Loading COVID testing data and exploring it in Google Colab.
+- **Oregon-Sugar-Document.ipynb**  
+  Processing tab-delimited text data relevant to archival research.
+
+Data Sources:  
+- [COVID Clinical Data](https://covidclinicaldata.org)  
+- [UCSF Industry Documents Library](https://www.industrydocuments.ucsf.edu)
+
+---
+
+## Intro to Python and SQL Part 2: Mock Data and Querying
+
+This section introduces generating mock datasets and performing SQL queries, both locally and on cloud platforms. It emphasizes integrating SQL queries with pandas for flexible data analysis.
+
+### Key Topics:
+- Creating mock data for experimentation
+- Executing SQL queries on COVID datasets using pandasql and Google Colab
+- Understanding local vs cloud-based SQL environments
+
+### Resources:
+- **Covid_Mock_Data.ipynb**  
+  Using generative AI to create synthetic datasets.
+- **Covid_Queries.ipynb**  
+  Running SQL queries on COVID data in Google Colab.
+- **Covid_Queries_Local.ipynb**  
+  Local SQL querying via pandasql.
+
+---
+
+## Python and Web APIs: Working with Dictionaries and JSON
+
+This section covers how to work with Python dictionaries and parse JSON data from web APIs. Examples include building caffeine content databases and querying the National Library of Medicine RXNorm API, as well as the UCSF Industry Documents Library API.
+
+### Key Topics:
+- Creating and using Python dictionaries
+- Parsing JSON data returned from web APIs
+- Querying real-world biomedical and archival data APIs
+
+### Resources:
+- **Python-Dictionaries.ipynb**  
+  Introduction to dictionaries and key/value storage.
+- **Caffeine-Dictionary.ipynb**  
+  Example project mapping caffeine content in beverages.
+- **Web-API-Python.ipynb**  
+  Accessing and parsing data from RXNorm API.
+- **Industry-Documents-API.ipynb** and **Industry-Documents-ApiB.ipynb**  
+  Using UCSF’s Industry Documents Library API for archival research.
+
+---
+
+## Image, Audio, and Video to Text Transcription with Python
+
+Focuses on converting multimedia content to text using optical character recognition (OCR) and audio transcription tools.
+
+### Key Topics:
+- Using Tesseract OCR for scanned documents
+- Alternative OCR methods with Doctr
+- Transcribing audio and video files using OpenAI’s Whisper
+- Speaker diarization and clustering techniques
+
+### Resources:
+- **Py_Tesseract_OCR.ipynb**  
+  Applying OCR to scanned images.
+- **Doctr_Ocr.ipynb**  
+  Exploring other OCR tools.
+- **Whisper_AI_Transcription.ipynb**  
+  Audio/video transcription workflows.
+- **Whisper-Diarized-Pipeline.ipynb**  
+  Diarization for speaker separation.
+
+---
+
+## Image Annotation and Object Detection
+
+Introduction to annotating images and detecting objects using TensorFlow and cloud APIs.
+
+### Key Topics:
+- Manual and automated labeling of images
+- Using TensorFlow object detection tools
+- Exploring Google Vision API for advanced image analysis (requires paid account)
+
+### Resources:
+- **TensorFlow_Labels.ipynb**  
+  Hands-on object labeling with TensorFlow.  
+  [Notebook Link](https://github.com/geoffswc/Libguide-AI-Tools-Archival-Research/blob/main/TensorFlow_Labels.ipynb)
+- Google Vision API: https://cloud.google.com/vision
+
+---
+
+## Python Background for Text Analysis and Natural Language Processing
+
+Covers foundational NLP techniques such as cleaning text, tokenization, stop word removal, stemming, and lemmatization. Applicable to single documents or collections.
+
+### Key Topics:
+- Text preprocessing steps for NLP
+- Applying tokenization and filtering to sample texts
+- Working with multiple documents for corpus-level analysis
+
+### Resources:
+- **Single-Text-Document.ipynb**  
+  Preprocessing a single text document.
+- **Multiple-Document.ipynb**  
+  Extending techniques to multiple documents.
+
+Sample dataset: https://ucsf.app.box.com/v/IDL-DataSets/file/780928732201
+
+---
+
+## Predicting COVID Test Outcome with Scikit-Learn
+
+Introduction to supervised machine learning for classification problems using COVID symptom data. Emphasizes practical model building with scikit-learn.
+
+### Repository:  
+https://github.com/geoffswc/Covid-Test-Predictions
+
+---
+
+## Document Classification with Scikit-Learn
+
+Explores text classification techniques including bag-of-words, random forest classifiers, and building machine learning pipelines.
+
+### Key Topics:
+- Representing text as sets and bag-of-words
+- Training random forest models on movie reviews
+- Using scikit-learn pipelines for streamlined workflows
+
+### Resources:
+- **Example-Classification-Set-DefaultDict.ipynb**  
+  Introduction to Python sets and bag-of-words.
+- **Simple-Classification-Scikit-Learn.ipynb**  
+  Applying random forest classifiers.
+- **Sentiment-Pipeline-Example.ipynb**  
+  Larger dataset sentiment analysis with pipelines.  
+  Repository: https://github.com/geoffswc/Document-Classification
+
+---
+
+## Document Topic Modeling with Python
+
+Unsupervised learning for discovering latent topics in text collections using Latent Dirichlet Allocation (LDA).
+
+### Resources:
+- Repository: https://github.com/geoffswc/YouTube-Transcript-Python
+- Tutorial: https://www.tidytextmining.com/topicmodeling
+
+---
+
+## Classification, Sentiment Analysis, and Topic Modeling Using Pre-Trained APIs
+
+Using external APIs and libraries like Google Cloud NLP, VADER, and HuggingFace transformers for zero-shot classification, sentiment analysis, and more.
+
+### Resources:
+- **HuggingFaceClassifier.ipynb**  
+  Zero-shot classification with HuggingFace models.  
+  https://huggingface.co/tasks/zero-shot-classification
+- **VaderTest.ipynb**  
+  Sentiment analysis using VADER.  
+  https://github.com/cjhutto/vaderSentiment
+- **Predict_Text_Sentiment_And_Category.ipynb**  
+  Demonstration of Google Cloud Language API (paid service).
+
+---
+
+## Sharing, Versioning, and Collaborating with Git and GitHub
+
+Introduces version control and collaborative workflows using Git and GitHub, including sample projects and workshop materials.
+
+### Resources:
+- Sample repository: https://github.com/geoffswc/Capstone
+- Software Carpentries Git workshop: https://swcarpentry.github.io/git-novice/
+- UCSF CLE recording: https://courses.ucsf.edu/course/view.php?id=5208
+
+---
+
+## Cloud-Based SQL Database and AI Integrations
+
+Working with cloud SQL services such as the Google BigQuery sandbox to query large public datasets without requiring paid accounts.
+
+Google BigQuery Sandbox: https://cloud.google.com/bigquery/docs/sandbox
+
