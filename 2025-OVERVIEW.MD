@@ -98,8 +98,43 @@ We will start by showing a complete example script that does all of this, so you
 7.  **Image Annotation and Object Detection (Optional Extension)**
     Explore the basics of detecting and annotating objects in images as a potential future addition to multimedia document analysis.
 
+7.  **Image Annotation and Object Detection (Optional Extension)**
+    Explore the basics of detecting and annotating objects in images as a potential future addition to multimedia document analysis.
+
     ```python
-    print("Object detection placeholder")
+    import requests
+    import json
+
+    # Placeholder for the GPT-5 API endpoint for vision/object detection
+    GPT5_API_URL = "[https://api.gpt5.example/v1/vision/analyze](https://api.gpt5.example/v1/vision/analyze)" 
+    
+    # Payload for the API request
+    # 'image_url' would be the actual path/URL to the image
+    payload = {
+        "model": "gpt-5-vision",
+        "image_url": "[http://example.com/image_with_umbrella.jpg](http://example.com/image_with_umbrella.jpg)",
+        "prompt": "Identify if an umbrella is in the image, and provide a brief description of the context in which it appears."
+    }
+
+    try:
+        # Simulate API call
+        response = requests.post(
+            GPT5_API_URL, 
+            headers={"Authorization": "Bearer YOUR_API_KEY"},
+            json=payload
+        )
+        
+        # Simulate a successful response
+        if response.status_code == 200:
+            result = response.json()
+            # Assuming the API returns a structure with a 'description' key
+            print("Object Analysis (Umbrella):")
+            print(result.get("description", "Analysis pending.")) 
+        else:
+            print(f"API Error: Status {response.status_code}")
+
+    except requests.exceptions.RequestException as e:
+        print(f"Connection Error: {e}")
     ```
 
 8.  **Text Preprocessing for NLP**
