@@ -3,11 +3,14 @@
 ## Introduction
 
 This workshop series will guide you through the key skills needed for document analysis using **Python**, **SQL**, and **AI tools**. The goal is to build up from basic programming concepts to creating a full workflow that processes multimedia documents such as videos and audio files. You will learn how to:
-* download videos
+* download videos and image files
 * extract audio
 * split it into chunks
 * transcribe speech
 * identify speakers
+* recognize key objects and describe them
+* classify records by topic
+* assess the sentiment of text (positive/negative/neutral)
 * organize the data using **pandas**
 * run **SQL-style queries** on the data
 * apply **AI models** for classification and topic analysis.
