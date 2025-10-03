@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This workshop series will guide you through the key skills needed for document analysis using **Python**, **SQL**, and **AI tools**. The goal is to build up from basic programming concepts to creating a full workflow that processes multimedia documents such as videos and audio files. You will learn how to:
+This workshop series will guide you through the key skills needed for document analysis using Python, SQL, and AI tools. The goal is to build up from basic programming concepts to creating a full workflow that processes multimedia documents such as videos and audio files. You will learn how to:
 * download videos and image files
 * extract audio
 * split it into chunks
@@ -15,7 +15,11 @@ This workshop series will guide you through the key skills needed for document a
 * run SQL-style queries to find elements in the data
 * apply AI models for classification and topic analysis.
 
-We will start by showing a complete example script that does all of this, so you can see the final goal. Then, each part of the curriculum will break down the components of the example, helping you build up your skills step-by-step.
+We will start by showing a complete example script that does all of this, so you can see the final goal. 
+
+- [Whisper_Diarized_Pipeline.ipynb](Whisper_Diarized_Pipeline.ipynb) 
+
+Then, each part of the curriculum will break down the components of the example, helping you build up your skills step-by-step.
 
 ## Curriculum Structure and How It Connects to the Example
 
