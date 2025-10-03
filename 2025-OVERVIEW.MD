@@ -11,7 +11,7 @@ This workshop series will guide you through the key skills needed for document a
 * recognize key objects and describe them
 * classify records by topic
 * assess the sentiment of text (positive/negative/neutral)
-* organize the data using **pandas**
+* organize the data using pandas
 * run SQL-style queries to find elements in the data
 * apply AI models for classification and topic analysis.
 
