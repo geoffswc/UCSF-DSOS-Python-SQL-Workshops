@@ -12,8 +12,8 @@ This workshop series will guide you through the key skills needed for document a
 * classify records by topic
 * assess the sentiment of text (positive/negative/neutral)
 * organize the data using **pandas**
-* run **SQL-style queries** on the data
-* apply **AI models** for classification and topic analysis.
+* run SQL-style queries to find elements in the data
+* apply AI models for classification and topic analysis.
 
 We will start by showing a complete example script that does all of this, so you can see the final goal. Then, each part of the curriculum will break down the components of the example, helping you build up your skills step-by-step.
 
