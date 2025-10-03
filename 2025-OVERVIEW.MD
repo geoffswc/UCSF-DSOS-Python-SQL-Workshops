@@ -159,22 +159,32 @@ We will start by showing a complete example script that does all of this, so you
     print(model.predict([[1, 1]]))
     ```
 
-10. **Document Classification Using Naive Bayes**
-    Learn how to classify documents based on text using a simple **Naive Bayes** classifier.
+10. **Document Classification Using Random Forest**
+    Learn how to classify documents based on text using a more robust model like the **Random Forest classifier**.
 
     ```python
     from sklearn.feature_extraction.text import CountVectorizer
-    from sklearn.naive_bayes import MultinomialNB
+    from sklearn.ensemble import RandomForestClassifier
+    import numpy as np
 
-    texts = ["I love this!", "I hate that."]
-    labels = [1, 0]
+    texts = ["I love this!", "I hate that.", "This is great.", "This is terrible."]
+    # Labels (1: Positive, 0: Negative)
+    labels = np.array([1, 0, 1, 0])
 
+    # 1. Feature Extraction
     vectorizer = CountVectorizer()
     X = vectorizer.fit_transform(texts)
-    clf = MultinomialNB().fit(X, labels)
 
+    # 2. Model Training
+    # Using 100 decision trees (n_estimators)
+    clf = RandomForestClassifier(n_estimators=100, random_state=42).fit(X, labels)
+
+    # 3. Prediction
     test_text = vectorizer.transform(["I love it"])
-    print(clf.predict(test_text))
+    prediction = clf.predict(test_text)
+    
+    # The output will be the predicted class (0 or 1)
+    print(prediction)
     ```
 
 11. **Topic Modeling with Latent Dirichlet Allocation**
