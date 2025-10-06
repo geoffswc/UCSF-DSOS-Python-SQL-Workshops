@@ -14,6 +14,11 @@ Compared to past workshops we have offered, this series incorporates AI-assisted
 
 Furthermore, in our previous workshop series, programming progressed from writing code by hand to downloading, reviewing, and modifying pre-prepared code. That process made sense as we shifted to more complex tasks, requiring less manual coding and more adjustments to existing code. Now, the emphasis is on using AI-powered systems to generate code rather than pre-written codebases. While this approach enables new developers to generate code more rapidly, it also highlights the importance of learning to review and test code. We will focus on building these skills alongside our use of AI.
 
+### Data and Learning Resources
+
+See for a collection of external links, tutorials, and data sources related to this workshop series. 
+
+- [Learning Resources](LEARNING-RESOURCES.md) 
 ---
 
 ## Table of Contents
