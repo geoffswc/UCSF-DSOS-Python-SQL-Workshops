@@ -36,13 +36,13 @@ Recordings, code repositories, and tutorial links for the workshops in this seri
 
 The intro Python and SQL workshops in this series are based closely on material from Software Carpentry, an organization that provides lessons and workshops on topics related to research programming and computational lab skills.
 
-### Software Carpentry (general page)
+#### Software Carpentry (general page)
 <https://software-carpentry.org>
 
-### Plotting and Programming in Python
+#### Plotting and Programming in Python
 <https://swcarpentry.github.io/python-novice-gapminder/>
 
-### Data Management with SQL for Ecologists
+#### Data Management with SQL for Ecologists
 <https://datacarpentry.github.io/sql-ecology-lesson/>
 
 ---
