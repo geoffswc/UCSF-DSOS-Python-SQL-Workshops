@@ -1,16 +1,16 @@
 # Learning Resources
 
 ## Table of Contents
-- [UCSF Library Data Science and Open Scholarship](#ucsf-library-data-science-and-open-scholarship)
+- [UCSF Library Data Science and Open Scholarship Group](#ucsf-library-data-science-and-open-scholarship-Group)
 - [UCSF CLE (Collaborative Learning Environment)](#ucsf-cle-collaborative-learning-environment)
 - [Software Carpentry Tutorials](#software-carpentry-tutorials)
   - [Plotting and Programming in Python](#plotting-and-programming-in-python)
   - [Data Management with SQL for Ecologists](#data-management-with-sql-for-ecologists)
 - [UCSF LinkedIn Learning](#ucsf-linkedin-learning)
-
+  
 ---
 
-## UCSF Library Data Science and Open Scholarship
+## UCSF Library Data Science and Open Scholarship Group
 
 The UCSF Library’s Data Science and Open Scholarship Team builds computational and data skills in the UCSF community by providing education and resources to trainees, faculty, and staff.
 
