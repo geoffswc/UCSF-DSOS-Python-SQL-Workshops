@@ -10,6 +10,7 @@
 - [UCSF LinkedIn Learning](#ucsf-linkedin-learning)
 - [Prepared Data Sets)](#prepared-data-sets)
   - [Prepared Data Sets Libguide](#prepared-data-sets-libguide)
+  - [IDL Prepared Data Sets Box Folder](#idl-prepared-data-sets-box-folder)
 - [Industry Documents Library](#industry-documents-library)
 - [Coronavirus Disease 2019 (COVID-19) Clinical Data Repository](#coronavirus-disease-2019-covid-19-clinical-data-repository)
 
@@ -78,9 +79,18 @@ This resource contains a wide range of media formats, including text, image, aud
 Some of the document collections from the UCSF Archives & Special Collections and the UCSF Industry Documents Library have been converted into tabular data files for researchers, with columns for metadata, embedded text, and other descriptive data related to media files. These prepared datasets are designed to provide access to collections without requiring researchers to build their own OCR, Object Detection, or Audio Transcription pipelines. 
 
 #### Prepared Data Sets Libguide
+
+The UCSF Library Libguide provides and overview and description of several high impact prepared data collections (Note - this is a subset of all prepared datasets, for the full list see the IDL Prepared Data Sets Box Folder)
+
 https://guides.ucsf.edu/c.php?g=1298409&p=9537976
 
 This workshop will use the "DC Leaks Coca-Cola Emails (Food Collections)" collection to illustrate how to query text through SQL, clean and prepare text for Natural Language Processing, and compare to AI based text extraction tools. 
+
+#### IDL Prepared Data Sets Box Folder
+
+This box folder provides public access to all prepared datasets available for the Industry Documents Library.
+
+https://ucsf.app.box.com/v/IDL-DataSets
 
 ---
 
