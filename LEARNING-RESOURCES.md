@@ -8,6 +8,8 @@
   - [Plotting and Programming in Python](#plotting-and-programming-in-python)
   - [Data Management with SQL for Ecologists](#data-management-with-sql-for-ecologists)
 - [UCSF LinkedIn Learning](#ucsf-linkedin-learning)
+- [Prepared Data Sets)](#prepared-data-sets)
+  - [Prepared Data Sets Libguide](#prepared-data-sets-libguide)
 - [Industry Documents Library](#industry-documents-library)
 - [Coronavirus Disease 2019 (COVID-19) Clinical Data Repository](#coronavirus-disease-2019-covid-19-clinical-data-repository)
 
@@ -70,6 +72,15 @@ Many of the workshops reference material from the Industry Documents Library, a 
 This resource contains a wide range of media formats, including text, image, audio, video, spreadsheet, and other file formats. Many of the techniques used to extract information from these file types throughout this workshop series will make use of public data hosted on the IDL website.
 
 <https://www.industrydocuments.ucsf.edu/home/>
+
+## Prepared Data Sets
+
+Some of the document collections from the UCSF Archives & Special Collections and the UCSF Industry Documents Library have been converted into tabular data files for researchers, with columns for metadata, embedded text, and other descriptive data related to media files. These prepared datasets are designed to provide access to collections without requiring researchers to build their own OCR, Object Detection, or Audio Transcription pipelines. 
+
+#### Prepared Data Sets Libguide
+https://guides.ucsf.edu/c.php?g=1298409&p=9537976
+
+This workshop will use the "DC Leaks Coca-Cola Emails (Food Collections)" collection to illustrate how to query text through SQL, clean and prepare text for Natural Language Processing, and compare to AI based text extraction tools. 
 
 ---
 
