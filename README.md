@@ -62,7 +62,9 @@ This section introduces fundamental Python programming concepts including variab
 
 ## Intro to Python and SQL Part 1
 
-Learners explore how to load datasets and analyze them using both Python and SQL. Example datasets include COVID testing data and tab-delimited text from the UCSF Industry Documents Library.
+Note: This workshop is an alternative to Intro to Python Part 1 and covers closely related material. However, this workshop introduces SQL based operations on Pandas dataframes early, and places a greater empahsis on SQL than pandas dataframe operations.
+
+Learners explore how to load datasets and analyze them using both Python and SQL. Example datasets include COVID testing data from Carbon Health.
 
 ### Key Topics:
 - Reading data files into pandas
@@ -108,7 +110,9 @@ Building on the basics, this section introduces pandas DataFrames for data manip
 
 ## Intro to Python and SQL Part 2
 
-This section introduces generating mock datasets and performing SQL queries, both locally and on cloud platforms. It emphasizes integrating SQL queries with pandas for flexible data analysis.
+Note: This workshop is an alternative to Intro to Python Part 1 and covers closely related material. However, this workshop introduces SQL based operations on Pandas dataframes early, and places a greater empahsis on SQL than pandas dataframe operations.
+
+This section covers Python lists, loops and conditionals for the first half, then introduces text-based SQL querying through the LIKE function on a text based dataset from the Industry Archives. 
 
 ### Key Topics:
 - Creating mock data for experimentation
