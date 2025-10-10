@@ -24,9 +24,9 @@ See for a collection of external links, tutorials, and data sources related to t
 ## Table of Contents
 
 1) [Intro to Python Part 1: Variables, Lists, Loops, Conditionals](#intro-to-python-part-1-variables-lists-loops-conditionals)  
-1-alt) [Intro to Python and SQL Part 1: Data Loading and Exploration](#intro-to-python-and-sql-part-1-data-loading-and-exploration)  
+1-alt) [Intro to Python and SQL Part 1](#intro-to-python-and-sql-part-1-data-loading-and-exploration)  
 2) [Intro to Python Part 2: Pandas and Graphing](#intro-to-python-part-2-pandas-and-graphing)  
-2-alt) [Intro to Python and SQL Part 2: Mock Data and Querying](#intro-to-python-and-sql-part-2-mock-data-and-querying)  
+2-alt) [Intro to Python and SQL Part 2](#intro-to-python-and-sql-part-2-mock-data-and-querying)  
 3) [Python and Web APIs: Working with Dictionaries and JSON](#python-and-web-apis-working-with-dictionaries-and-json)  
 4) [Image, Audio, and Video to Text Transcription with Python](#image-audio-and-video-to-text-transcription-with-python)  
 5) [Image Annotation and Object Detection](#image-annotation-and-object-detection)  
