@@ -12,8 +12,8 @@ The focus of the series is to help participants build practical skills. Sessions
 
 ## Table of Contents
 
-1. [Note on Integrating AI Tools Into the Workshop Series](note-on-integrating-ai-tools-into-the-workshop-series)
-2. [Workshop Series Data and Learning Resources](workshop-series-data-and-learning-resources)
+1. [Note on Integrating AI Tools Into the Workshop Series](#note-on-integrating-ai-tools-into-the-workshop-series)
+2. [Workshop Series Data and Learning Resources](#workshop-series-data-and-learning-resources)
 3. [Intro to Python Part 1: Variables, Lists, Loops, Conditionals](#intro-to-python-part-1-variables-lists-loops-conditionals)  
 3-alt. [Intro to Python and SQL Part 1](#intro-to-python-and-sql-part-1)  
 4. [Intro to Python Part 2: Pandas and Graphing](#intro-to-python-part-2-pandas-and-graphing)  
