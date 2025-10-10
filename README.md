@@ -60,6 +60,28 @@ This section introduces fundamental Python programming concepts including variab
 
 ---
 
+## Intro to Python and SQL Part 1
+
+Learners explore how to load datasets and analyze them using both Python and SQL. Example datasets include COVID testing data and tab-delimited text from the UCSF Industry Documents Library.
+
+### Key Topics:
+- Reading data files into pandas
+- Basic data exploration and cleaning
+- Using SQL queries for data manipulation within Python environments
+
+### Resources: 
+- [Python_SQL_Day_1.ipynb](Python_SQL_Day_1.ipynb)  
+  Loading COVID testing data and exploring it in Google Colab.
+- [Oregon-Sugar-Document.ipynb](Oregon-Sugar-Document.ipynb)  
+  Processing tab-delimited text data relevant to archival research.
+
+Data Sources:  
+- [COVID Clinical Data](https://covidclinicaldata.org)  
+- [UCSF Industry Documents Library](https://www.industrydocuments.ucsf.edu)
+
+---
+
+
 ## Intro to Python Part 2: Pandas and Graphing
 
 Building on the basics, this section introduces pandas DataFrames for data manipulation and matplotlib for basic graphing and visualization. The aim is to help learners work effectively with tabular data.
@@ -81,27 +103,6 @@ Building on the basics, this section introduces pandas DataFrames for data manip
     Running pandas code in Google Colab, including visualization examples.
 - Additional material:  
   https://github.com/geoffswc/IntroToPythonPart2
-
----
-
-## Intro to Python and SQL Part 1
-
-Learners explore how to load datasets and analyze them using both Python and SQL. Example datasets include COVID testing data and tab-delimited text from the UCSF Industry Documents Library.
-
-### Key Topics:
-- Reading data files into pandas
-- Basic data exploration and cleaning
-- Using SQL queries for data manipulation within Python environments
-
-### Resources: 
-- [Python_SQL_Day_1.ipynb](Python_SQL_Day_1.ipynb)  
-  Loading COVID testing data and exploring it in Google Colab.
-- [Oregon-Sugar-Document.ipynb](Oregon-Sugar-Document.ipynb)  
-  Processing tab-delimited text data relevant to archival research.
-
-Data Sources:  
-- [COVID Clinical Data](https://covidclinicaldata.org)  
-- [UCSF Industry Documents Library](https://www.industrydocuments.ucsf.edu)
 
 ---
 
