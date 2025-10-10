@@ -23,20 +23,20 @@ See for a collection of external links, tutorials, and data sources related to t
 
 ## Table of Contents
 
-1) [Intro to Python Part 1: Variables, Lists, Loops, Conditionals](#intro-to-python-part-1-variables-lists-loops-conditionals)
-2) [Intro to Python Part 2: Pandas and Graphing](#intro-to-python-part-2-pandas-and-graphing)
-3)  [Intro to Python and SQL Part 1: Data Loading and Exploration](#intro-to-python-and-sql-part-1-data-loading-and-exploration)
-4) [Intro to Python and SQL Part 2: Mock Data and Querying](#intro-to-python-and-sql-part-2-mock-data-and-querying)
-5) [Python and Web APIs: Working with Dictionaries and JSON](#python-and-web-apis-working-with-dictionaries-and-json)
-6) [Image, Audio, and Video to Text Transcription with Python](#image-audio-and-video-to-text-transcription-with-python)
-7) [Image Annotation and Object Detection](#image-annotation-and-object-detection)
-8) [Python Background for Text Analysis and Natural Language Processing](#python-background-for-text-analysis-and-natural-language-processing)
-9) [Predicting COVID Test Outcome with Scikit-Learn](#predicting-covid-test-outcome-with-scikit-learn)
-10) [Document Classification with Scikit-Learn](#document-classification-with-scikit-learn)
-11) [Document Topic Modeling with Python](#document-topic-modeling-with-python)
-12) [Classification, Sentiment Analysis, and Topic Modeling Using Pre-Trained APIs](#classification-sentiment-analysis-and-topic-modeling-using-pre-trained-apis)
-13) [Sharing, Versioning, and Collaborating with Git and GitHub](#sharing-versioning-and-collaborating-with-git-and-github)
-14) [Cloud-Based SQL Database and AI Integrations](#cloud-based-sql-database-and-ai-integrations)
+1) [Intro to Python Part 1: Variables, Lists, Loops, Conditionals](#intro-to-python-part-1-variables-lists-loops-conditionals)  
+1-alt) [Intro to Python and SQL Part 1: Data Loading and Exploration](#intro-to-python-and-sql-part-1-data-loading-and-exploration)  
+2) [Intro to Python Part 2: Pandas and Graphing](#intro-to-python-part-2-pandas-and-graphing)  
+2-alt) [Intro to Python and SQL Part 2: Mock Data and Querying](#intro-to-python-and-sql-part-2-mock-data-and-querying)  
+3) [Python and Web APIs: Working with Dictionaries and JSON](#python-and-web-apis-working-with-dictionaries-and-json)  
+4) [Image, Audio, and Video to Text Transcription with Python](#image-audio-and-video-to-text-transcription-with-python)  
+5) [Image Annotation and Object Detection](#image-annotation-and-object-detection)  
+6) [Python Background for Text Analysis and Natural Language Processing](#python-background-for-text-analysis-and-natural-language-processing)  
+7) [Predicting COVID Test Outcome with Scikit-Learn](#predicting-covid-test-outcome-with-scikit-learn)  
+8) [Document Classification with Scikit-Learn](#document-classification-with-scikit-learn)  
+9) [Document Topic Modeling with Python](#document-topic-modeling-with-python)  
+10) [Classification, Sentiment Analysis, and Topic Modeling Using Pre-Trained APIs](#classification-sentiment-analysis-and-topic-modeling-using-pre-trained-apis)  
+11) [Sharing, Versioning, and Collaborating with Git and GitHub](#sharing-versioning-and-collaborating-with-git-and-github)  
+12) [Cloud-Based SQL Database and AI Integrations](#cloud-based-sql-database-and-ai-integrations)
 
 ---
 
@@ -84,7 +84,7 @@ Building on the basics, this section introduces pandas DataFrames for data manip
 
 ---
 
-## Intro to Python and SQL Part 1: Data Loading and Exploration
+## Intro to Python and SQL Part 1
 
 Learners explore how to load datasets and analyze them using both Python and SQL. Example datasets include COVID testing data and tab-delimited text from the UCSF Industry Documents Library.
 
@@ -93,7 +93,7 @@ Learners explore how to load datasets and analyze them using both Python and SQL
 - Basic data exploration and cleaning
 - Using SQL queries for data manipulation within Python environments
 
-### Resources:
+### Resources: 
 - [Python_SQL_Day_1.ipynb](Python_SQL_Day_1.ipynb)  
   Loading COVID testing data and exploring it in Google Colab.
 - [Oregon-Sugar-Document.ipynb](Oregon-Sugar-Document.ipynb)  
@@ -105,7 +105,7 @@ Data Sources:
 
 ---
 
-## Intro to Python and SQL Part 2: Mock Data and Querying
+## Intro to Python and SQL Part 2
 
 This section introduces generating mock datasets and performing SQL queries, both locally and on cloud platforms. It emphasizes integrating SQL queries with pandas for flexible data analysis.
 
