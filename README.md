@@ -31,7 +31,7 @@ The focus of the series is to help participants build practical skills. Sessions
 
 ---
 
-## Note on Integrating AI tools and coding assistance into the workshop series
+## Note on Integrating AI tools into the workshop series
 
 Compared to past workshops we have offered, this series incorporates AI-assisted programming earlier on while still starting with the basics. Intro to Python Parts 1 and 2 and Intro to SQL will use AI sparingly. As the series progresses, we will dive into topics like web APIs, text analysis, natural language processing, machine learning, regression, document analysis, and AI system interaction, gradually incorporating more AI-driven techniques.
 
