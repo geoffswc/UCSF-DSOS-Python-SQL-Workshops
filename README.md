@@ -8,37 +8,45 @@ The series generally starts with foundational Python programming concepts and ad
 
 The focus of the series is to help participants build practical skills. Sessions will involve a lot of hands-on coding while keeping lectures and theory to a minimum.
 
-### Integrating AI tools and coding assistance into the workshop series
+
+
+## Table of Contents
+
+1. [Note on Integrating AI Tools Into the Workshop Series](note-on-integrating-ai-tools-into-the-workshop-series)
+2. [Workshop Series Data and Learning Resources](workshop-series-data-and-learning-resources)
+3. [Intro to Python Part 1: Variables, Lists, Loops, Conditionals](#intro-to-python-part-1-variables-lists-loops-conditionals)  
+3-alt. [Intro to Python and SQL Part 1](#intro-to-python-and-sql-part-1)  
+4. [Intro to Python Part 2: Pandas and Graphing](#intro-to-python-part-2-pandas-and-graphing)  
+4-alt. [Intro to Python and SQL Part 2](#intro-to-python-and-sql-part-2)  
+5. [Python and Web APIs: Working with Dictionaries and JSON](#python-and-web-apis-working-with-dictionaries-and-json)  
+6. [Image, Audio, and Video to Text Transcription with Python](#image-audio-and-video-to-text-transcription-with-python)  
+7. [Image Annotation and Object Detection](#image-annotation-and-object-detection)  
+8. [Python Background for Text Analysis and Natural Language Processing](#python-background-for-text-analysis-and-natural-language-processing)  
+9. [Predicting COVID Test Outcome with Scikit-Learn](#predicting-covid-test-outcome-with-scikit-learn)  
+10. [Document Classification with Scikit-Learn](#document-classification-with-scikit-learn)  
+11. [Document Topic Modeling with Python](#document-topic-modeling-with-python)  
+12. [Classification, Sentiment Analysis, and Topic Modeling Using Pre-Trained APIs](#classification-sentiment-analysis-and-topic-modeling-using-pre-trained-apis)  
+13. [Sharing, Versioning, and Collaborating with Git and GitHub](#sharing-versioning-and-collaborating-with-git-and-github)
+14. [Cloud-Based SQL Database and AI Integrations](#cloud-based-sql-database-and-ai-integrations)
+
+---
+
+## Note on Integrating AI tools and coding assistance into the workshop series
 
 Compared to past workshops we have offered, this series incorporates AI-assisted programming earlier on while still starting with the basics. Intro to Python Parts 1 and 2 and Intro to SQL will use AI sparingly. As the series progresses, we will dive into topics like web APIs, text analysis, natural language processing, machine learning, regression, document analysis, and AI system interaction, gradually incorporating more AI-driven techniques.
 
 Furthermore, in our previous workshop series, programming progressed from writing code by hand to downloading, reviewing, and modifying pre-prepared code. That process made sense as we shifted to more complex tasks, requiring less manual coding and more adjustments to existing code. Now, the emphasis is on using AI-powered systems to generate code rather than pre-written codebases. While this approach enables new developers to generate code more rapidly, it also highlights the importance of learning to review and test code. We will focus on building these skills alongside our use of AI.
 
-### Data and Learning Resources
+---
 
-See for a collection of external links, tutorials, and data sources related to this workshop series. 
+## Workshop Series Data and Learning Resources
+
+See the Learning Resources page for a collection of external links, tutorials, and data sources related to this workshop series. 
 
 - [Learning Resources](LEARNING-RESOURCES.md) 
----
-
-## Table of Contents
-
-1) [Intro to Python Part 1: Variables, Lists, Loops, Conditionals](#intro-to-python-part-1-variables-lists-loops-conditionals)  
-1-alt) [Intro to Python and SQL Part 1](#intro-to-python-and-sql-part-1)  
-2) [Intro to Python Part 2: Pandas and Graphing](#intro-to-python-part-2-pandas-and-graphing)  
-2-alt) [Intro to Python and SQL Part 2](#intro-to-python-and-sql-part-2)  
-3) [Python and Web APIs: Working with Dictionaries and JSON](#python-and-web-apis-working-with-dictionaries-and-json)  
-4) [Image, Audio, and Video to Text Transcription with Python](#image-audio-and-video-to-text-transcription-with-python)  
-5) [Image Annotation and Object Detection](#image-annotation-and-object-detection)  
-6) [Python Background for Text Analysis and Natural Language Processing](#python-background-for-text-analysis-and-natural-language-processing)  
-7) [Predicting COVID Test Outcome with Scikit-Learn](#predicting-covid-test-outcome-with-scikit-learn)  
-8) [Document Classification with Scikit-Learn](#document-classification-with-scikit-learn)  
-9) [Document Topic Modeling with Python](#document-topic-modeling-with-python)  
-10) [Classification, Sentiment Analysis, and Topic Modeling Using Pre-Trained APIs](#classification-sentiment-analysis-and-topic-modeling-using-pre-trained-apis)  
-11) [Sharing, Versioning, and Collaborating with Git and GitHub](#sharing-versioning-and-collaborating-with-git-and-github)  
-12) [Cloud-Based SQL Database and AI Integrations](#cloud-based-sql-database-and-ai-integrations)
 
 ---
+
 
 ## Intro to Python Part 1: Variables, Lists, Loops, Conditionals
 
