@@ -8,7 +8,7 @@
   - [Plotting and Programming in Python](#plotting-and-programming-in-python)
   - [Data Management with SQL for Ecologists](#data-management-with-sql-for-ecologists)
 - [UCSF LinkedIn Learning](#ucsf-linkedin-learning)
-- [Prepared Data Sets)](#prepared-data-sets)
+- [Prepared Data Sets](#prepared-data-sets)
   - [Prepared Data Sets Libguide](#prepared-data-sets-libguide)
   - [IDL Prepared Data Sets Box Folder](#idl-prepared-data-sets-box-folder)
 - [Industry Documents Library](#industry-documents-library)
