@@ -188,12 +188,14 @@ Introduction to annotating images and detecting objects using TensorFlow and clo
 - Manual and automated labeling of images
 - Using TensorFlow object detection tools
 - Exploring Google Vision API for advanced image analysis (requires paid account)
+- Using a GenAI approach to identifying objects in an image frame
 
 ### Resources:
 - [TensorFlow_Labels.ipynb](TensorFlow_Labels.ipynb)  
   Hands-on object labeling with TensorFlow.  
   [Notebook Link](https://github.com/geoffswc/Libguide-AI-Tools-Archival-Research/blob/main/TensorFlow_Labels.ipynb)
 - Google Vision API: https://cloud.google.com/vision
+- [Use a Hybrid GenAI approach to identify imagery in a video](https://github.com/geoffswc/Identify-Imagery-GenAI)
 
 ---
 
