@@ -147,9 +147,8 @@ This section covers how to work with Python dictionaries and parse JSON data fro
 - Querying real-world biomedical and archival data APIs
 
 ### Resources:
-
-- [Python-JSON-Workshop](https://github.com/geoffswc/Python-JSON-Workshop)
-  Full Tutorial for working with APIs with Python and JSON
+- [Python-JSON-Workshop](https://github.com/geoffswc/Python-JSON-Workshop)  
+  Full Tutorial for working with APIs with Python and JSON.
 - [Python-Dictionaries.ipynb](Python-Dictionaries.ipynb)  
   Introduction to dictionaries and key/value storage.
 - [Caffeine-Dictionary.ipynb](Caffeine-Dictionary.ipynb)  
