@@ -4,6 +4,8 @@
 - [UCSF Library Data Science and Open Scholarship Group](#ucsf-library-data-science-and-open-scholarship-group)
 - [UCSF CLE (Collaborative Learning Environment)](#ucsf-cle-collaborative-learning-environment)
 - [Python Coding Environment](#python-coding-environment)
+  - [Jupyter Notebook](#jupyter-notebook)
+  - [Google Colab](#google-colab)
 - [Software Carpentry Tutorials](#software-carpentry-tutorials)
   - [Software Carpentry (general page)](#software-carpentry-general-page)
   - [Plotting and Programming in Python](#plotting-and-programming-in-python)
@@ -46,7 +48,7 @@ To install Jupyter notebook locally, use the following link and download and ins
 
 https://www.anaconda.com/download/success
 
-#### Coogle Colab
+#### Google Colab
 
 Google CoLab provides a jupyter notebook style interface through google drive. If you have used CoLab previously, it will show up as a selection option when you create a new document. If you don't see "Google Colaboratory" as an option, you can create on at the following link
 
