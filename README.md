@@ -259,7 +259,7 @@ Unsupervised learning for discovering latent topics in text collections using La
 
 ## Classification, Sentiment Analysis, and Topic Modeling Using Pre-Trained APIs
 
-Using external APIs and libraries like Google Cloud NLP, VADER, and HuggingFace transformers for zero-shot classification, sentiment analysis, and more.
+Using external APIs and libraries like Google Cloud NLP, VADER, and zero-shot HuggingFace transformers for classification and sentiment analysis.
 
 ### Resources:
 - [HuggingFaceClassifier.ipynb](HuggingFaceClassifier.ipynb)  
