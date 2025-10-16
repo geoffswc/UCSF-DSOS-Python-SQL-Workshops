@@ -3,6 +3,7 @@
 ## Table of Contents
 - [UCSF Library Data Science and Open Scholarship Group](#ucsf-library-data-science-and-open-scholarship-group)
 - [UCSF CLE (Collaborative Learning Environment)](#ucsf-cle-collaborative-learning-environment)
+- [Python Coding Environment](#python-coding-environment)
 - [Software Carpentry Tutorials](#software-carpentry-tutorials)
   - [Software Carpentry (general page)](#software-carpentry-general-page)
   - [Plotting and Programming in Python](#plotting-and-programming-in-python)
@@ -32,6 +33,26 @@ This page provides registration links for upcoming programming and data science 
 Recordings, code repositories, and tutorial links for the workshops in this series are available on the UCSF CLE at:
 
 <https://courses.ucsf.edu/course/index.php?categoryid=930>
+
+---
+
+## Python Coding Environment
+
+This workshop series will introduce python through a notebook coding environment. Participants will be able to use either Jupyter Notebook installed locally or Google CoLab. 
+
+#### Jupyter Notebook
+
+To install Jupyter notebook locally, use the following link and download and install the version for your Operating SYstem.
+
+https://www.anaconda.com/download/success
+
+#### Coogle Colab
+
+Google CoLab provides a jupyter notebook style interface through google drive. If you have used CoLab previously, it will show up as a selection option when you create a new document. If you don't see "Google Colaboratory" as an option, you can create on at the following link
+
+https://colab.research.google.com
+
+Once you've created a first CoLab notebook, you will see this option when you create a new document in Google Drive. 
 
 ---
 
