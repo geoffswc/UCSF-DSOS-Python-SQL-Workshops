@@ -85,9 +85,12 @@ Learners explore how to load datasets and analyze them using both Python and SQL
 - [Oregon-Sugar-Document.ipynb](Oregon-Sugar-Document.ipynb)  
   Processing tab-delimited text data relevant to archival research.
 
-Data Sources:  
+#### Data Sources:  
 - [COVID Clinical Data](https://covidclinicaldata.org)  
 - [UCSF Industry Documents Library](https://www.industrydocuments.ucsf.edu)
+
+### Recordings:
+- [Data Analysis with Python and SQL Part 1 Workshop Recording](https://media.ucsf.edu/media/Data-Analysis-Python-SQL-Part-1-10-2025/1_v2f15lms)
 
 ---
 
@@ -134,6 +137,9 @@ This section covers Python lists, loops and conditionals for the first half, the
   Running SQL queries on COVID data in Google Colab.
 - [Covid_Queries_Local.ipynb](Covid_Queries_Local.ipynb)  
   Local SQL querying via pandasql.
+
+### Recordings:
+- [Data Analysis with Python and SQL Part 2 Workshop Recording](https://media.ucsf.edu/media/t/1_abvrwg4h)
 
 ---
 
