@@ -164,6 +164,9 @@ This section covers how to work with Python dictionaries and parse JSON data fro
 - [Industry_Documents_API.ipynb](Industry_Documents_API.ipynb) and [Industry-Documents-ApiB.ipynb](Industry-Documents-ApiB.ipynb)  
   Using UCSF’s Industry Documents Library API for archival research.
 
+### Recordings
+- [Python and Web APIs Workshop Recording](https://media.ucsf.edu/media/Python-Web-API/1_2j7irpnk)
+
 ---
 
 ## Image, Audio, and Video to Text Transcription with Python
