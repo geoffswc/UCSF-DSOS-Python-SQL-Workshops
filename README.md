@@ -225,7 +225,12 @@ Covers foundational NLP techniques such as cleaning text, tokenization, stop wor
 - [Multiple-Document.ipynb](Multiple-Document.ipynb)  
   Extending techniques to multiple documents.
 
-Sample dataset: https://ucsf.app.box.com/v/IDL-DataSets/file/780928732201
+### Workshop Repository:
+- [Document Classification](https://github.com/geoffswc/Document-Classification)
+  Workbooks and tutorial links for document classification, including text preparation
+
+### Sample dataset: 
+- https://ucsf.app.box.com/v/IDL-DataSets/file/780928732201
 
 ---
 
