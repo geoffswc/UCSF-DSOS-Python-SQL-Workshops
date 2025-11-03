@@ -232,6 +232,10 @@ Covers foundational NLP techniques such as cleaning text, tokenization, stop wor
 ### Sample dataset: 
 - https://ucsf.app.box.com/v/IDL-DataSets/file/780928732201
 
+### Recording
+
+- [Python Background For Text and NLP](https://media.ucsf.edu/media/t/1_75gwhnkz)
+
 ---
 
 ## Predicting COVID Test Outcome with Scikit-Learn
