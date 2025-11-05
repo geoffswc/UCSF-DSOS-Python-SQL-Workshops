@@ -261,8 +261,6 @@ Explores text classification techniques including bag-of-words, random forest cl
   Introduction to Python sets and bag-of-words.
 - [Random_Forest_Simple.ipynb](Random_Forest_Simple.ipynb)  
   Simple example using two short movie reviews to illustrate sentiment analysis
-- [Sentiment-Pipeline-Example.ipynb](Sentiment-Pipeline-Example.ipynb)  
-  Larger dataset sentiment analysis with pipelines.
 - [Movie_Review_Pipeline.ipynb](Movie_Review_Pipeline.ipynb)  
   Classification example using movie review dataset from NLTK
 
