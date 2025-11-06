@@ -75,13 +75,13 @@ The intro Python and SQL workshops in this series are based closely on material 
 
 ## UCSF LinkedIn Learning
 
-If you’re looking for more learning material related to Data Science and AI, I’d highly recommend you take a look at what is available on LinkedIn Learning. UCSF has a sitewide license, so you don’t need to set up (and pay for) an account — you can log in with your UCSF account at:
+If you’re looking for more learning material related to Data Science and AI, I’d highly recommend you take a look at what is available on LinkedIn Learning. UCSF has a sitewide license, so you don’t need to set up (and pay for) an account — you can log in with your UCSF credentials at:
 
 <https://learning.ucsf.edu/content/linkedin-learning>
 
 There’s a lot of great content here, but if you’re interested in data science and machine learning, I’d recommend two workshops by Lillian Pierson: “Python For Data Science and Machine Part 1 and Part 2"
 
-**Note:** These LinkedIn Learning courses are available to anyone with an account, so you don’t need to be a UCSF affiliate to access them. However, if you are a UCSF affiliate, please don’t set up your own paid account — you already have access through the UCSF linkedin learning portal above! Log in and use the search feature, and you'll locate these courses with an internal link for UCSF affiliates. 
+**Note:** These LinkedIn Learning courses are available to anyone with an account, so you don’t need to be a UCSF affiliate to access them. However, if you are a UCSF affiliate, please don’t set up your own paid account — you already have access through the UCSF linkedin learning portal above! Log in and use the search feature, and you'll locate these courses with an internal link for UCSF affiliates. If you are at another UC Campus or university, it's probably worth checking to see if you have an institutional account before you pay for your own, many universities offer access to this training through a campus-wide portal. 
 
 - https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1
 - https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2
