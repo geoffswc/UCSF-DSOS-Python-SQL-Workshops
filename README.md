@@ -2,9 +2,9 @@
 
 ## Overview
 
-This is a collection of code and data resources used in the UCSF Library "Document Analysis with Python, SQL, and AI" workshop series. The materials here can be used for teaching foundational programming, data analysis, and AI techniques relevant to data science, NLP, machine learning, text classification and sentiment analysis, and archival research.
+This repository provides a collection of code, data, and teaching resources used in the UCSF Library "Document Analysis with Python, SQL, and AI" workshop series. The materials here can be used for teaching foundational programming, data analysis, and AI techniques relevant to data science, NLP, machine learning, text classification and sentiment analysis, and archival research.
 
-The series generally starts with foundational Python programming concepts and advances to more complex topics, including data analysis, document analysis, and artificial intelligence (AI)-based research. Throughout the workshops, we will dive into various data types—including numerical data, health data, text, and images/videos—and explore analysis techniques like regression, classification, and sentiment analysis. The end of the series will focus on text analysis, especially analyzing documents from the UCSF Industry Document Library.
+The series at the UCSF Library generally starts with foundational Python and SQL programming, then advances to more complex topics, including data analysis, document analysis, and artificial intelligence (AI)-based research. Throughout the workshops, we will dive into various data types—including numerical data, health data, text, and images/videos—and explore analysis techniques like regression, classification, and sentiment analysis. The end of the series will focus on text analysis, especially analyzing documents from the UCSF Industry Document Library.
 
 The focus of the series is to help participants build practical skills. Sessions will involve a lot of hands-on coding while keeping lectures and theory to a minimum.
 
