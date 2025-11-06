@@ -67,6 +67,40 @@ This section introduces fundamental Python programming concepts including variab
 
 ---
 
+## Intro to Python Part 2: Pandas and Graphing
+
+Building on the basics, this section introduces pandas DataFrames for data manipulation and matplotlib for basic graphing and visualization. The aim is to help learners work effectively with tabular data.
+
+### Key Topics:
+- Working with pandas DataFrames
+- Importing and cleaning data
+- Generating summary statistics
+- Creating basic visualizations using matplotlib
+
+### Resources:
+- Same [Software Carpentry Tutorial](https://swcarpentry.github.io/python-novice-gapminder/)
+- Notebooks:
+  - [Lists-Averages.ipynb](Lists-Averages.ipynb)  
+    Using lists and loops for calculations such as averages.
+  - [Pandas-Dataframes.ipynb](Pandas-Dataframes.ipynb)  
+    Loading data into DataFrames and calculating descriptive statistics.
+  - [Colab-Pandas-Dataframe.ipynb](Colab-Pandas-Dataframe.ipynb)  
+    Running pandas code in Google Colab, including visualization examples.
+- Additional material:  
+  https://github.com/geoffswc/IntroToPythonPart2
+
+---
+
+## Intro to SQL
+
+### Online Tutorial Resources
+
+The Intro to SQL workshop at the UCSF Library follows the "Data Management with SQL for Ecologists" workshop from Data Carpentry
+
+- https://datacarpentry.github.io/sql-ecology-lesson/
+  
+___
+
 ## Intro to Python and SQL Part 1
 
 Note: This workshop is an alternative to Intro to Python Part 1 and covers closely related material. However, this workshop introduces SQL based operations on Pandas dataframes early, and places a greater empahsis on SQL than pandas dataframe operations.
@@ -90,31 +124,6 @@ Learners explore how to load datasets and analyze them using both Python and SQL
 
 ### Recordings:
 - [Data Analysis with Python and SQL Part 1 Workshop Recording](https://media.ucsf.edu/media/Data-Analysis-Python-SQL-Part-1-10-2025/1_v2f15lms)
-
----
-
-
-## Intro to Python Part 2: Pandas and Graphing
-
-Building on the basics, this section introduces pandas DataFrames for data manipulation and matplotlib for basic graphing and visualization. The aim is to help learners work effectively with tabular data.
-
-### Key Topics:
-- Working with pandas DataFrames
-- Importing and cleaning data
-- Generating summary statistics
-- Creating basic visualizations using matplotlib
-
-### Resources:
-- Same [Software Carpentry Tutorial](https://swcarpentry.github.io/python-novice-gapminder/)
-- Notebooks:
-  - [Lists-Averages.ipynb](Lists-Averages.ipynb)  
-    Using lists and loops for calculations such as averages.
-  - [Pandas-Dataframes.ipynb](Pandas-Dataframes.ipynb)  
-    Loading data into DataFrames and calculating descriptive statistics.
-  - [Colab-Pandas-Dataframe.ipynb](Colab-Pandas-Dataframe.ipynb)  
-    Running pandas code in Google Colab, including visualization examples.
-- Additional material:  
-  https://github.com/geoffswc/IntroToPythonPart2
 
 ---
 
