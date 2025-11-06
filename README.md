@@ -257,8 +257,6 @@ Explores text classification techniques including bag-of-words, random forest cl
 - Using scikit-learn pipelines for streamlined workflows
 
 ### Resources:
-- [Example-Classification-Set-DefaultDict.ipynb](Example-Classification-Set-DefaultDict.ipynb)  
-  Introduction to Python sets and bag-of-words.
 - [Random_Forest_Simple.ipynb](Random_Forest_Simple.ipynb)  
   Simple example using two short movie reviews to illustrate sentiment analysis
 - [Movie_Review_Pipeline.ipynb](Movie_Review_Pipeline.ipynb)  
