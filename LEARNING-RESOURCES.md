@@ -79,13 +79,18 @@ If you’re looking for more learning material related to Data Science and AI, I
 
 <https://learning.ucsf.edu/content/linkedin-learning>
 
-There’s a lot of great content here, but if you’re interested in data science and machine learning, I’d recommend two workshops by Lillian Pierson: “Python For Data Science and Machine..."
+There’s a lot of great content here, but if you’re interested in data science and machine learning, I’d recommend two workshops by Lillian Pierson: “Python For Data Science and Machine Part 1 and Part 2"
+
+**Note:** These LinkedIn Learning courses are available to anyone with an account, so you don’t need to be a UCSF affiliate to access them. However, if you are a UCSF affiliate, please don’t set up your own paid account — you already have access through the UCSF linkedin learning portal above! Log in and use the search feature, and you'll locate these courses with an internal link for UCSF affiliates. 
+
+- https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1
+- https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2
 
 If you’ve already taken the UCSF Library workshops on Machine Learning and NLP, there is still plenty of new material, and it can always help cement learning to review material from another angle.
 
 Another bonus — these LinkedIn Learning courses use Python and Jupyter Notebook, so you’re already set up and ready to go!
 
-> **Note:** These LinkedIn Learning courses are available to anyone with an account, so you don’t need to be a UCSF affiliate to access them. However, if you are a UCSF affiliate, please don’t set up your own paid account — you already have access through the link above!
+
 
 ---
 
