@@ -270,6 +270,13 @@ Explores text classification techniques including bag-of-words, random forest cl
 - [Movie_Review_Pipeline.ipynb](Movie_Review_Pipeline.ipynb)  
   Classification example using movie review dataset from NLTK
 
+### Links:
+- [Scikit-Learn](https://scikit-learn.org/stable/)
+- [Cornell Movie Review Dataset](https://www.cs.cornell.edu/people/pabo/movie-review-data/)
+
+### Recording
+- [Document Classification with Python and Scikit-Learn](https://media.ucsf.edu/media/Document-Classification-Python-Scikit-Learn/1_4nkyk948)
+
 ---
 
 ## Document Topic Modeling with Python
@@ -295,7 +302,6 @@ Using external APIs and libraries like Google Cloud NLP, VADER, and zero-shot Hu
   https://github.com/cjhutto/vaderSentiment
 - [Predict_Text_Sentiment_And_Category.ipynb](Predict_Text_Sentiment_And_Category.ipynb)  
   Demonstration of Google Cloud Language API (paid service).
-
 ---
 
 ## Sharing, Versioning, and Collaborating with Git and GitHub
