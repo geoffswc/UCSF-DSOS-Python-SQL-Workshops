@@ -34,7 +34,7 @@ The focus of the series is to help participants build practical skills. Sessions
 
 Compared to past workshops we have offered, this series incorporates AI-assisted programming earlier on while still starting with the basics. Intro to Python Parts 1 and 2 and Intro to SQL will use AI sparingly. As the series progresses, we will dive into topics like web APIs, text analysis, natural language processing, machine learning, regression, document analysis, and AI system interaction, gradually incorporating more AI-driven techniques.
 
-Furthermore, in our previous workshop series, programming progressed from writing code by hand to downloading, reviewing, and modifying pre-prepared code. That process made sense as we shifted to more complex tasks, requiring less manual coding and more adjustments to existing code. Now, the emphasis is on using AI-powered systems to generate code rather than pre-written codebases. While this approach enables new developers to generate code more rapidly, it also highlights the importance of learning to review and test code. We will focus on building these skills alongside our use of AI.
+Furthermore, in our previous workshop series, programming progressed from writing code by hand to downloading, reviewing, and modifying prepared code. That process made sense as we shifted to more complex tasks, requiring less manual coding and more adjustments to existing code. Now, the emphasis is on using AI-powered systems to generate code rather than pre-written codebases. While this approach enables new developers to generate code more rapidly, it also highlights the importance of learning to review and test code. We will focus on building these skills alongside our use of AI.
 
 ---
 
