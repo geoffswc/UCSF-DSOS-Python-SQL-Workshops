@@ -281,10 +281,11 @@ Explores text classification techniques including bag-of-words, random forest cl
 
 ## Document Topic Modeling with Python
 
-Unsupervised learning for discovering latent topics in text collections using Latent Dirichlet Allocation (LDA).
+Unsupervised learning for discovering latent topics in text collections using K-Means Clustering.
 
 ### Resources:
-- Repository: https://github.com/geoffswc/YouTube-Transcript-Python
+- [Simple-Kmeans.ipynb](Simple-Kmeans.ipynb)
+  Simple example using K-Means Clustering to illustrate unsupervised machine learning
 - Tutorial: https://www.tidytextmining.com/topicmodeling
 
 ---
