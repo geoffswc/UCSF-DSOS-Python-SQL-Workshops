@@ -283,10 +283,15 @@ Explores text classification techniques including bag-of-words, random forest cl
 
 Unsupervised learning for discovering latent topics in text collections using K-Means Clustering.
 
-### Resources:
+### Workshop Resources:
 - [Simple-Kmeans.ipynb](Simple-Kmeans.ipynb)
   Simple example using K-Means Clustering to illustrate unsupervised machine learning
-- Tutorial: https://www.tidytextmining.com/topicmodeling
+
+### Tutorials and Code Samples
+- https://scikit-learn.org/stable/auto_examples/text/plot_document_clustering.html#sphx-glr-auto-examples-text-plot-document-clustering-py
+  Scikit-learn tutorial: Clustering text documents using k-means
+- https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2
+  LinkedIn Learning course on data science with python with a good tutorial on dimensionality reduction
 
 ---
 
