@@ -286,6 +286,7 @@ Unsupervised learning for discovering latent topics in text collections using K-
 ### Workshop Resources:
 - [Simple-Kmeans.ipynb](Simple-Kmeans.ipynb)
   Simple example using K-Means Clustering to illustrate unsupervised machine learning
+- [k-means-visualization.png](visualizations/k-means-visualization.png)
 
 ### Tutorials and Code Samples
 - https://scikit-learn.org/stable/auto_examples/text/plot_document_clustering.html#sphx-glr-auto-examples-text-plot-document-clustering-py
