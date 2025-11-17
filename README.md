@@ -294,6 +294,9 @@ Unsupervised learning for discovering latent topics in text collections using K-
 - https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2
   LinkedIn Learning course on data science with python with a good tutorial on dimensionality reduction
 
+### Recording
+- [Topic Modeling with Python and Scikit-Learn](https://media.ucsf.edu/media/t/1_r4k6ivfz)
+
 ---
 
 ## Classification, Sentiment Analysis, and Topic Modeling Using Pre-Trained APIs
