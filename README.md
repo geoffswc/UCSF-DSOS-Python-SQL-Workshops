@@ -179,6 +179,8 @@ This section covers how to work with Python dictionaries and parse JSON data fro
 
 ## Image, Audio, and Video to Text Transcription with Python
 
+- mage, Audio, and Video to Text Transcription with Python
+
 Focuses on converting multimedia content to text using optical character recognition (OCR) and audio transcription tools.
 
 ### Key Topics:
@@ -197,6 +199,10 @@ Focuses on converting multimedia content to text using optical character recogni
 - [Whisper_Diarized_Pipeline.ipynb](Whisper_Diarized_Pipeline.ipynb)  
   Diarization for speaker separation.
 
+### Recordings
+
+- [Image, Audio, and Video to Text Transcription with Python](https://media.ucsf.edu/media/Image-Audio-Video-Transcription-Python/1_4qeq6u32)
+  
 ---
 
 ## Image Annotation and Object Detection
