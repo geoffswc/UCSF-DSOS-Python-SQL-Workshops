@@ -328,6 +328,7 @@ Introduces version control and collaborative workflows using Git and GitHub, inc
 - Sample repository: https://github.com/geoffswc/Capstone
 - Software Carpentries Git workshop: https://swcarpentry.github.io/git-novice/
 - UCSF CLE recording: https://courses.ucsf.edu/course/view.php?id=5208
+- Github Markdown Guide: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 ---
 
