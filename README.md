@@ -330,6 +330,8 @@ Introduces version control and collaborative workflows using Git and GitHub, inc
 - UCSF CLE recording: https://courses.ucsf.edu/course/view.php?id=5208
 - Github Markdown Guide: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
+### Recordings
+- [Winter 2025 Github Workshop](https://media.ucsf.edu/media/Github-Workshop-2025/1_52ih4iqd)
 ---
 
 ## Cloud-Based SQL Database and AI Integrations
