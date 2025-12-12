@@ -310,14 +310,18 @@ Unsupervised learning for discovering latent topics in text collections using K-
 Using external APIs and libraries like Google Cloud NLP, VADER, and zero-shot HuggingFace transformers for classification and sentiment analysis.
 
 ### Resources:
-- [HuggingFaceClassifier.ipynb](HuggingFaceClassifier.ipynb)  
-  Zero-shot classification with HuggingFace models.  
-  https://huggingface.co/tasks/zero-shot-classification
-- [VaderTest.ipynb](VaderTest.ipynb)  
-  Sentiment analysis using VADER.  
-  https://github.com/cjhutto/vaderSentiment
-- [Predict_Text_Sentiment_And_Category.ipynb](Predict_Text_Sentiment_And_Category.ipynb)  
-  Demonstration of Google Cloud Language API (paid service).
+- HuggingFace: https://huggingface.co/tasks/zero-shot-classification
+- Vader Sentiment: https://github.com/cjhutto/vaderSentiment
+
+### Workbooks
+- HuggingFace Classifier for Text Classification
+  - Application to Multiple Advertising and Legal Documents from the IDL: [HuggingFaceClassifier.ipynb](HuggingFaceClassifier.ipynb)
+  - Application to Smoking-Related Documents from the IDL: [HuggingFace_ZeroShot_Classifier](HuggingFace_ZeroShot_Classifier.ipynb)
+
+- Vader for Text Sentiment Analysis
+  - Application to Multiple Movie Reviews: [VaderTest.ipynb](VaderTest.ipynb)
+  - Application to Smoking-Related Documents from the IDL: [Vader_Sentiment](Vader_Sentiment.ipynb)
+ 
 ---
 
 ## Sharing, Versioning, and Collaborating with Git and GitHub
