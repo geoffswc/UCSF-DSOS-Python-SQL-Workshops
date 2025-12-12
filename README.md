@@ -319,7 +319,7 @@ Using external APIs and libraries like Google Cloud NLP, VADER, and zero-shot Hu
   - Application to Smoking-Related Documents from the IDL: [HuggingFace_ZeroShot_Classifier](HuggingFace_ZeroShot_Classifier.ipynb)
 
 - Vader for Text Sentiment Analysis
-  - Application to Multiple Movie Reviews: [VaderTest.ipynb](VaderTest.ipynb)
+  - Application to Multiple Movie Reviews: [Vader_Movie_Reviews.ipynb](Vader_Movie_Reviews.ipynb)
   - Application to Smoking-Related Documents from the IDL: [Vader_Sentiment](Vader_Sentiment.ipynb)
  
 ---
