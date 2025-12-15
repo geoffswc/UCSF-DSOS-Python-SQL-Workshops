@@ -321,6 +321,9 @@ Using external APIs and libraries like Google Cloud NLP, VADER, and zero-shot Hu
 - Vader for Text Sentiment Analysis
   - Application to Multiple Movie Reviews: [Vader_Movie_Reviews.ipynb](Vader_Movie_Reviews.ipynb)
   - Application to Smoking-Related Documents from the IDL: [Vader_Sentiment](Vader_Sentiment.ipynb)
+
+### Recording
+- [December 2025 Workshop](https://media.ucsf.edu/media/classification-sentiment-pretrained/1_h1pxglha)
  
 ---
 
