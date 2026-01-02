@@ -3,6 +3,7 @@
 ## Table of Contents
 - [UCSF Library Data Science and Open Scholarship Group](#ucsf-library-data-science-and-open-scholarship-group)
 - [UCSF CLE (Collaborative Learning Environment)](#ucsf-cle-collaborative-learning-environment)
+- [UCSF Github](#ucsf-github)
 - [Python Coding Environment](#python-coding-environment)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Google Colab](#google-colab)
@@ -35,6 +36,20 @@ This page provides registration links for upcoming programming and data science 
 Recordings, code repositories, and tutorial links for the workshops in this series are available on the UCSF CLE at:
 
 <https://courses.ucsf.edu/course/index.php?categoryid=930>
+
+---
+
+## UCSF Github 
+
+The Git and GitHub workshop in this series requires a public github account. You can create one at https://github.com
+
+If you'd like to use GitHub in a secure environment at UCSF, you can request one at:
+
+- https://it.ucsf.edu/service/github-enterprise-server-premises
+
+Note that you must have a UCSF email address and affiliation to use this service, and any repsitories you create within UCSF Enterprise Github will be accessible only to UCSF affiliates with access to UCSF GitHub. 
+
+If you are at another university or UC Campus, check with your academic computing or IT department - many institutions offer a version of hosted, secure github. 
 
 ---
 
