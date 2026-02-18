@@ -38,6 +38,14 @@ Furthermore, in our previous workshop series, programming progressed from writin
 
 ---
 
+## Note on the Workshop Coding Environment
+
+This workshop uses a combination of hosted Jupyter notebooks and local installation to balance accessibility with long-term technical independence. Hosted environments help reduce setup barriers so we can focus on core programming, data science, and machine learning concepts, while local development builds the skills needed to manage your own tools, work offline, and maintain control over your computational environment.
+
+For more information, see [Workshop_Coding_Environment.md](Workshop_Coding_Environment.md)  
+
+---
+
 ## Workshop Series Data and Learning Resources
 
 See the Learning Resources page for a collection of external links, tutorials, and data sources related to this workshop series. 
