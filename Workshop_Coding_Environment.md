@@ -87,7 +87,7 @@ Below are the platforms considered and how well they align with our goals.
 | **Local Jupyter Install** | ✅ | ❌ | ❌ | ✅ | ⭐⭐⭐ |
 | **AWS / GCP / Azure** | ❌ (credit card required) | ✅ | ✅ | ✅ | ⭐⭐ |
 
-Note" Because AWS, GCP and Azure require a credit card even for the "free" tier, we won't use them in this series. 
+Note: Because AWS, GCP and Azure require a credit card even for the "free" tier, we won't use them in this series. 
 
 
 # Why We’re Using a Local Jupyter Environment
