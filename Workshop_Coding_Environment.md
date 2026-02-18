@@ -14,11 +14,11 @@ We want you to understand the tools deeply enough that convenience becomes a cho
 
 You shouldn’t need to enter a credit card just to learn how to code.
 
-This platform:
+Every platform we choose for this workshop series:
 
 - Is free to use  
 - Does not require billing information  
-- Eliminates the risk of accidental charges  
+- Introduces no risk of accidental charges  
 
 That keeps things equitable and stress-free.
 
@@ -53,14 +53,12 @@ That means less time fixing environment issues and more time learning concepts.
 
 ## 4. Built for Data Science and ML
 
-The platform already includes:
+Ideally, a hosted platform will already include pre-installed tools for data science:
 
 - Jupyter-style notebooks  
 - Core data science libraries (NumPy, pandas, matplotlib, etc.)  
 - Machine learning frameworks  
 - Optional GPU access for deeper experiments  
-
-So we can move quickly from theory to hands-on work.
 
 ---
 
@@ -73,7 +71,7 @@ In this course, we’re here to learn:
 - How models learn  
 - How AI systems are built  
 
-We’re *not* here to learn cloud billing systems or DevOps configuration (at least not yet).
+We’re *not* here to learn cloud billing systems or DevOps configuration.
 
 __
 
@@ -88,6 +86,8 @@ Below are the platforms considered and how well they align with our goals.
 | **SageMaker Studio Lab** | ✅ | ✅ | ✅ | ✅ | ⭐⭐⭐⭐ |
 | **Local Jupyter Install** | ✅ | ❌ | ❌ | ✅ | ⭐⭐⭐ |
 | **AWS / GCP / Azure** | ❌ (credit card required) | ✅ | ✅ | ✅ | ⭐⭐ |
+
+Note" Because AWS, GCP and Azure require a credit card even for the "free" tier, we won't use them in this series. 
 
 
 # Why We’re Using a Local Jupyter Environment
