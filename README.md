@@ -55,7 +55,6 @@ See the Learning Resources page for a collection of external links, tutorials, a
 
 ---
 
-
 ## Intro to Python Part 1: Variables, Lists, Loops, Conditionals
 
 This section introduces fundamental Python programming concepts including variables, data types, lists, loops, and conditionals. It follows the Software Carpentry Python Novice Gapminder tutorial to provide hands-on examples and exercises.
@@ -73,6 +72,10 @@ This section introduces fundamental Python programming concepts including variab
     Focus on variables, assignment, and basic functions.
   - [lists-loops-conditionals.ipynb](lists-loops-conditionals.ipynb)  
     Covers list manipulation, loops, and conditional statements.
+
+### Recordings
+- [Spring 2025 UCSF Workshop Recording](https://media.ucsf.edu/media/Variables-Lists-Loops-Conditionals/1_4n0afrx6)
+- [UCSF CLE Page](https://courses.ucsf.edu/course/view.php?id=5281)
 
 ---
 
