@@ -101,6 +101,8 @@ Building on the basics, this section introduces pandas DataFrames for data manip
 - Additional material:  
   https://github.com/geoffswc/IntroToPythonPart2
 
+### Recordings
+- [Pandas and Plotting](https://media.ucsf.edu/media/Pandas-Plotting/1_7fxqtni2)
 ---
 
 ## Intro to SQL
