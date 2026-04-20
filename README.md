@@ -112,6 +112,9 @@ Building on the basics, this section introduces pandas DataFrames for data manip
 The Intro to SQL workshop at the UCSF Library follows the "Data Management with SQL for Ecologists" workshop from Data Carpentry
 
 - https://datacarpentry.github.io/sql-ecology-lesson/
+
+### Recordings
+- [UCSF Software Carpentry SQL Workshop](https://media.ucsf.edu/media/Intro-To-SQL-Workshop-4-24-2020/0_fh21geaw)
   
 ___
 
