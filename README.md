@@ -18,7 +18,7 @@ The focus of the series is to help participants build practical skills. Sessions
 6. [Intro to SQL](#intro-to-sql)
 7. [Intro to Python and SQL Part 1](#intro-to-python-and-sql-part-1)  
 8. [Intro to Python and SQL Part 2](#intro-to-python-and-sql-part-2)
-9. [Analyzing Covid Testing Data with Python and SQL]((#analyzing-covid-testing-data-with-python-and-sql)
+9. [Analyzing Covid Testing Data with Python and SQL](#analyzing-covid-testing-data-with-python-and-sql)
 10. [Python and Web APIs: Working with Dictionaries and JSON](#python-and-web-apis-working-with-dictionaries-and-json)  
 11. [Image, Audio, and Video to Text Transcription with Python](#image-audio-and-video-to-text-transcription-with-python)  
 12. [Image Annotation and Object Detection](#image-annotation-and-object-detection)  
