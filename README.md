@@ -17,17 +17,18 @@ The focus of the series is to help participants build practical skills. Sessions
 5. [Intro to Python Part 2: Pandas and Graphing](#intro-to-python-part-2-pandas-and-graphing)
 6. [Intro to SQL](#intro-to-sql)
 7. [Intro to Python and SQL Part 1](#intro-to-python-and-sql-part-1)  
-8. [Intro to Python and SQL Part 2](#intro-to-python-and-sql-part-2)  
-9. [Python and Web APIs: Working with Dictionaries and JSON](#python-and-web-apis-working-with-dictionaries-and-json)  
-10. [Image, Audio, and Video to Text Transcription with Python](#image-audio-and-video-to-text-transcription-with-python)  
-11. [Image Annotation and Object Detection](#image-annotation-and-object-detection)  
-12. [Python Background for Text Analysis and Natural Language Processing](#python-background-for-text-analysis-and-natural-language-processing)  
-13. [Predicting COVID Test Outcome with Scikit-Learn](#predicting-covid-test-outcome-with-scikit-learn)  
-14. [Document Classification with Scikit-Learn](#document-classification-with-scikit-learn)  
-15. [Document Topic Modeling with Python](#document-topic-modeling-with-python)  
-16. [Classification, Sentiment Analysis, and Topic Modeling Using Pre-Trained APIs](#classification-sentiment-analysis-and-topic-modeling-using-pre-trained-apis)  
-17. [Sharing, Versioning, and Collaborating with Git and GitHub](#sharing-versioning-and-collaborating-with-git-and-github)
-18. [Cloud-Based SQL Database and AI Integrations](#cloud-based-sql-database-and-ai-integrations)
+8. [Intro to Python and SQL Part 2](#intro-to-python-and-sql-part-2)
+9. [Analyzing Covid Testing Data with Python and SQL]((#analyzing-covid-testing-data-with-python-and-sql)
+10. [Python and Web APIs: Working with Dictionaries and JSON](#python-and-web-apis-working-with-dictionaries-and-json)  
+11. [Image, Audio, and Video to Text Transcription with Python](#image-audio-and-video-to-text-transcription-with-python)  
+12. [Image Annotation and Object Detection](#image-annotation-and-object-detection)  
+13. [Python Background for Text Analysis and Natural Language Processing](#python-background-for-text-analysis-and-natural-language-processing)  
+14. [Predicting COVID Test Outcome with Scikit-Learn](#predicting-covid-test-outcome-with-scikit-learn)  
+15. [Document Classification with Scikit-Learn](#document-classification-with-scikit-learn)  
+16. [Document Topic Modeling with Python](#document-topic-modeling-with-python)  
+17. [Classification, Sentiment Analysis, and Topic Modeling Using Pre-Trained APIs](#classification-sentiment-analysis-and-topic-modeling-using-pre-trained-apis)  
+18. [Sharing, Versioning, and Collaborating with Git and GitHub](#sharing-versioning-and-collaborating-with-git-and-github)
+19. [Cloud-Based SQL Database and AI Integrations](#cloud-based-sql-database-and-ai-integrations)
 
 ---
 
@@ -144,7 +145,7 @@ Learners explore how to load datasets and analyze them using both Python and SQL
 
 ---
 
-## Intro to Python and SQL Part 2
+## Intro to Python and SQL Part 2 
 
 Note: This workshop is an alternative to Intro to Python Part 1 and covers closely related material. However, this workshop introduces SQL based operations on Pandas dataframes early, and places a greater empahsis on SQL than pandas dataframe operations.
 
@@ -165,6 +166,17 @@ This section covers Python lists, loops and conditionals for the first half, the
 
 ### Recordings:
 - [Data Analysis with Python and SQL Part 2 Workshop Recording](https://media.ucsf.edu/media/t/1_abvrwg4h)
+
+---
+
+# Analyzing Covid Testing Data with Python and SQL
+
+Learners explore how to load datasets and analyze them using both Python and SQL. Example datasets include COVID testing data from Carbon Health.
+
+This workshop contains material similar to Intro to Python and SQL Part 1 (above). The main difference is that this workshop uses DuckDB instead of PandaSQL and makes much greater use of GenAI to create code and write SQL queries. The material in the previous two workshops is still helpful, and the SQL statements will be the same regardless of whether you use PandaSQL or DuckDB. However, unless you have a particular legacy reason to use PandaSQL, I'd recommend going with DuckDB for running SQL statements on Pandas dataframes.
+
+### Recordings:
+- [April 2026 Workshop Recording](https://media.ucsf.edu/media/t/1_cphabzd1)
 
 ---
 
