@@ -207,6 +207,7 @@ This section covers how to work with Python dictionaries and parse JSON data fro
 
 ### Recordings
 - [Python and Web APIs Workshop Recording](https://media.ucsf.edu/media/Python-Web-API/1_2j7irpnk)
+- [Python and Web APIs 2026 Workshop Recording(https://media.ucsf.edu/media/t/1_3ilgluwo)
 
 ---
 
