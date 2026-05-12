@@ -218,7 +218,7 @@ APIs have always provided access to both data and functionality. In earlier vers
 ### 2026 Update Resources
 - [Ollama](https://ollama.com/)
   Link to the Ollama open source platform, installation instructions, availble models, and sample use
-- [Ollama-Image-Summarization-OCR](Ollama-Image-Summarization-OCR.ipynb)
+- [Ollama-Image-Summarization-OCR](Ollama-Image-Summarization-OCR.py)
   A workbook showing use of Ollama to describe and image and extract embedded text
 
 ---
