@@ -2,11 +2,11 @@
 
 ## Overview
 
-This repository provides a collection of code, data, and teaching resources used in the UCSF Library "Document Analysis with Python, SQL, and AI" workshop series. The materials here can be used for teaching foundational programming, data analysis, and AI techniques relevant to data science, NLP, machine learning, text classification and sentiment analysis, and archival research.
+This repository brings together code, data, and teaching resources used in the UCSF Library “Document Analysis with Python, SQL, and AI” workshop series. The materials are intended to support instruction in foundational programming, data analysis, and AI techniques relevant to data science, NLP, machine learning, text classification and sentiment analysis, and archival research.
 
-The series at the UCSF Library generally starts with foundational Python and SQL programming, then advances to more complex topics, including data analysis, document analysis, and artificial intelligence (AI)-based research. Throughout the workshops, we will dive into various data types—including numerical data, health data, text, and images/videos—and explore analysis techniques like regression, classification, and sentiment analysis. The end of the series will focus on text analysis, especially analyzing documents from the UCSF Industry Document Library.
+The series starts with foundational Python and SQL programming, then moves into more complex topics including data analysis, document analysis, and AI-based research. Throughout the workshops, participants work with a range of data types—including numerical data, health data, text, and images/videos—and explore analysis techniques such as regression, classification, and sentiment analysis. The later sessions focus on text and document analysis, particularly using materials from the UCSF Industry Document Library.
 
-The focus of the series is to help participants build practical skills. Sessions will involve a lot of hands-on coding while keeping lectures and theory to a minimum.
+The focus of the series is to help participants build practical skills through hands-on work. Sessions emphasize applied coding, with lectures and theory used to support the exercises.
 
 ## Table of Contents
 
