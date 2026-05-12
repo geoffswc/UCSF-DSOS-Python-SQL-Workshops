@@ -216,7 +216,7 @@ APIs have always provided access to both data and functionality. In earlier vers
 - [Python and Web APIs 2026 Workshop Recording](https://media.ucsf.edu/media/t/1_3ilgluwo)
 
 ### 2026 Update Resources
-- [Ollama](https://ollama.com](https://ollama.com/)
+- [Ollama](https://ollama.com/)
   Link to the Ollama open source platform, installation instructions, availble models, and sample use
 - [Ollama-Image-Summarization-OCR](Ollama-Image-Summarization-OCR.ipynb)
   A workbook showing use of Ollama to describe and image and extract embedded text
