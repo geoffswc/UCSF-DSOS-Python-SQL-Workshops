@@ -38,6 +38,10 @@ Compared to past workshops we have offered, this series incorporates AI-assisted
 
 Furthermore, in our previous workshop series, programming progressed from writing code by hand to downloading, reviewing, and modifying prepared code. That process made sense as we shifted to more complex tasks, requiring less manual coding and more adjustments to existing code. Now, the emphasis is on using AI-powered systems to generate code rather than pre-written codebases. While this approach enables new developers to generate code more rapidly, it also highlights the importance of learning to review and test code. We will focus on building these skills alongside our use of AI.
 
+### Local GenAI (Ollama)
+
+This workshop series also introduces GenAI for text, image, and video analysis using GenAI based local large language models (LLMs). Because it's important to provide learning opportunities for experimentation in a low-risk environment, this workshop focuses on open source software and avoids commercial GenAI systems that require a paid account or a payment method enabled account. Ollama makes it possible for participants to learn GenAI coding and analysis methods without needing to pay for access or risk unexpected charges from cloud-based APIs. Running models locally also raises useful questions around local computation, data privacy, and reproducibility. We use Python to interact with these models programmatically via an API, applying them to tasks such as text generation, document analysis, image description, and OCR.
+
 ---
 
 ## Note on the Workshop Coding Environment
