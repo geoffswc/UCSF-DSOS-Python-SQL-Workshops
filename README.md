@@ -306,8 +306,14 @@ Covers foundational NLP techniques such as cleaning text, tokenization, stop wor
 
 Introduction to supervised machine learning for classification problems using COVID symptom data. Emphasizes practical model building with scikit-learn.
 
-### Repository:  
-https://github.com/geoffswc/Covid-Test-Predictions
+### Resources:  
+- [Course Github Repository](https://github.com/geoffswc/Covid-Test-Predictions)
+  Repository for simple random forest model with minimal dataset
+- [ML-Covid-Data.ipynb](ML-Covid-Data.ipynb)
+  Machine learning code generated with ChatGPT and modified during the May 2026 workshop
+
+### Recordings
+[May 2026 Workshop Recording](https://media.ucsf.edu/media/Covid-ML-Scikit-Learn-05-2026/1_b2lfyedv?st=30)
 
 ---
 
