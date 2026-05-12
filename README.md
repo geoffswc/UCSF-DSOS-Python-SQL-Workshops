@@ -207,7 +207,19 @@ This section covers how to work with Python dictionaries and parse JSON data fro
 
 ### Recordings
 - [Python and Web APIs Workshop Recording](https://media.ucsf.edu/media/Python-Web-API/1_2j7irpnk)
+
+### NOTE: API as Programming Access to GenAI Methods
+
+APIs have always provided access to both data and functionality. In earlier versions of this workshop series, APIs were primarily introduced in the context of accessing external data sources. More recently, their role has expanded significantly as a primary interface for interacting with AI systems programmatically. I am currently working to incorporate this expanded role of APIs more fully into the workshop series. The 2026 workshop recording reflects this shift in approach. In order to provide a free, open source GenAI system that allows participants to learn without providing a payment method to a cloud based GenAI API (OpenAI, Gemini, ect), this workshop series will use Ollama, an open source GenAI platform that runs locally on your laptop. 
+
+### 2026 Update Recordings
 - [Python and Web APIs 2026 Workshop Recording](https://media.ucsf.edu/media/t/1_3ilgluwo)
+
+### 2026 Update Resources
+- [Ollama]([https://ollama.com](https://ollama.com/)
+  Link to the Ollama open source platform, installation instructions, availble models, and sample use
+- [Ollama-Image-Summarization-OCR](Ollama-Image-Summarization-OCR.ipynb)
+  A workbook showing use of Ollama to describe and image and extract embedded text
 
 ---
 
