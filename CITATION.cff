@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite them as follows."
+authors:
+- family-names: "Boushey"
+  given-names: "Geoffrey"
+  affiliation: "UCSF Library"
+title: "Document Analysis with Python, SQL, and AI: Workshop Series"
+version: 1.0.0
+date-released: 2024-05-13
+url: "https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops"
+abstract: >-
+  A scaffolded curriculum for the UCSF Library workshop series, transitioning 
+  from foundational Python and SQL to advanced machine learning and 
+  AI-driven research. The repository demonstrates a modern workflow: 
+  moving from manual coding to auditing AI-generated models for 
+  COVID-19 prediction, sentiment analysis, and automated document 
+  transcription using local GenAI.
+keywords:
+  - data-science
+  - machine-learning
+  - sql
+  - python
+  - nlp
+  - ucsf-library
+  - generative-ai
+  - ollama
+  - scikit-learn
+  - transcription
+  - ocr
+  - text analysis
+  - image analysis
+license: MIT
