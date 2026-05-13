@@ -411,13 +411,13 @@ Google BigQuery Sandbox: https://cloud.google.com/bigquery/docs/sandbox
 If you use this curriculum, code, or these workshop materials in your research or teaching, please cite them as follows:
 
 **APA:**
-Boushey, G. (2026). *Computational Research Methods with Python, SQL, and AI* (Version 2.0.0). [Computer software]. UCSF Library. https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops
+Boushey, G. (2026). *CDocument Analysis with Python, SQL, Machine Learning, and AI* (Version 2.0.0). [Computer software]. UCSF Library. https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops
 
 **BibTeX:**
 ```bibtex
-@software{Boushey_Computational_Research_2026,
+@software{Boushey_Document_Analysis_Python_SQL_AI_2026,
   author = {Boushey, Geoffrey},
-  title = {{Computational Research Methods with Python, SQL, and AI}},
+  title = {{Document Analysis with Python, SQL, Machine Learning, and AI}},
   url = {[https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops)},
   version = {2.0.0},
   year = {2026},
