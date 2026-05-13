@@ -404,7 +404,7 @@ Working with cloud SQL services such as the Google BigQuery sandbox to query lar
 
 Google BigQuery Sandbox: https://cloud.google.com/bigquery/docs/sandbox
 
--- 
+--- 
 
 ## Citation
 
