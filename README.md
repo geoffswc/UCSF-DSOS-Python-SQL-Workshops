@@ -408,17 +408,15 @@ Google BigQuery Sandbox: https://cloud.google.com/bigquery/docs/sandbox
 
 ## Citation
 
-## Citation
-
 If you use this curriculum, code, or these workshop materials in your research or teaching, please cite them as follows:
 
 **APA:**
-Geoff, S. (2026). *Computational Research Methods with Python, SQL, and AI* (Version 2.0.0). [Computer software]. UCSF Library. https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops
+Boushey, G. (2026). *Computational Research Methods with Python, SQL, and AI* (Version 2.0.0). [Computer software]. UCSF Library. https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops
 
 **BibTeX:**
 ```bibtex
-@software{Geoff_Computational_Research_2026,
-  author = {Geoff, S.},
+@software{Boushey_Computational_Research_2026,
+  author = {Boushey, Geoffrey},
   title = {{Computational Research Methods with Python, SQL, and AI}},
   url = {[https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops)},
   version = {2.0.0},
