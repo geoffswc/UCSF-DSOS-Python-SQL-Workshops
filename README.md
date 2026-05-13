@@ -29,7 +29,7 @@ The focus of the series is to help participants build practical skills through h
 17. [Classification, Sentiment Analysis, and Topic Modeling Using Pre-Trained APIs](#classification-sentiment-analysis-and-topic-modeling-using-pre-trained-apis)  
 18. [Sharing, Versioning, and Collaborating with Git and GitHub](#sharing-versioning-and-collaborating-with-git-and-github)
 19. [Cloud-Based SQL Database and AI Integrations](#cloud-based-sql-database-and-ai-integrations)
-20. [Citation]{#citation}
+20. [Citation](#citation)
 
 ---
 
