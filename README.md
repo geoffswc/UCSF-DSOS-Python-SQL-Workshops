@@ -1,5 +1,8 @@
 # Data and Document Analysis with Python, SQL, and AI
 
+* **page view**: https://geoffswc.github.io/UCSF-DSOS-Python-SQL-Workshops
+* **file view**: https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops
+
 ## Overview
 
 This repository brings together code, data, and teaching resources used in the UCSF Library “Document Analysis with Python, SQL, and AI” workshop series. The materials are intended to support instruction in foundational programming, data analysis, and AI techniques relevant to data science, NLP, machine learning, text classification and sentiment analysis, and archival research.
