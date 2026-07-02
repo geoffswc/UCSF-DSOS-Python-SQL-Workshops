@@ -49,7 +49,7 @@ This workshop series also introduces GenAI for text, image, and video analysis u
 
 This workshop uses a combination of hosted Jupyter notebooks and local installation to balance accessibility with long-term technical independence. Hosted environments help reduce setup barriers so we can focus on core programming, data science, and machine learning concepts, while local development builds the skills needed to manage your own tools, work offline, and maintain control over your computational environment.
 
-For more information, see [Workshop_Coding_Environment.md](Workshop_Coding_Environment.md)  
+For more information, see [Workshop_Coding_Environment.md](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/Workshop_Coding_Environment.md)  
 
 ---
 
@@ -57,7 +57,7 @@ For more information, see [Workshop_Coding_Environment.md](Workshop_Coding_Envir
 
 See the Learning Resources page for a collection of external links, tutorials, and data sources related to this workshop series. 
 
-- [Learning Resources](LEARNING-RESOURCES.md) 
+- [Learning Resources](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/LEARNING-RESOURCES.md) 
 
 ---
 
@@ -74,9 +74,9 @@ This section introduces fundamental Python programming concepts including variab
 ### Resources:
 - [Software Carpentry Python Novice Gapminder Tutorial](https://swcarpentry.github.io/python-novice-gapminder/)
 - Notebooks:
-  - [variables-functions.ipynb](variables-functions.ipynb)  
+  - [variables-functions.ipynb](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/variables-functions.ipynb)  
     Focus on variables, assignment, and basic functions.
-  - [lists-loops-conditionals.ipynb](lists-loops-conditionals.ipynb)  
+  - [lists-loops-conditionals.ipynb](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/lists-loops-conditionals.ipynb)  
     Covers list manipulation, loops, and conditional statements.
 
 ### Recordings
@@ -98,11 +98,11 @@ Building on the basics, this section introduces pandas DataFrames for data manip
 ### Resources:
 - Same [Software Carpentry Tutorial](https://swcarpentry.github.io/python-novice-gapminder/)
 - Notebooks:
-  - [Lists-Averages.ipynb](Lists-Averages.ipynb)  
+  - [Lists-Averages.ipynb](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/Lists-Averages.ipynb)  
     Using lists and loops for calculations such as averages.
-  - [Pandas-Dataframes.ipynb](Pandas-Dataframes.ipynb)  
+  - [Pandas-Dataframes.ipynb](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/Pandas-Dataframes.ipynb)  
     Loading data into DataFrames and calculating descriptive statistics.
-  - [Colab-Pandas-Dataframe.ipynb](Colab-Pandas-Dataframe.ipynb)  
+  - [Colab-Pandas-Dataframe.ipynb](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/Colab-Pandas-Dataframe.ipynb)  
     Running pandas code in Google Colab, including visualization examples.
 - Additional material:  
   https://github.com/geoffswc/IntroToPythonPart2
@@ -136,10 +136,10 @@ Learners explore how to load datasets and analyze them using both Python and SQL
 - Using SQL queries for data manipulation within Python environments
 
 ### Resources: 
-- [Python_SQL_Day_1.ipynb](Python_SQL_Day_1.ipynb)  
-  Loading COVID testing data and exploring it in Google Colab.
-- [Oregon-Sugar-Document.ipynb](Oregon-Sugar-Document.ipynb)  
-  Processing tab-delimited text data relevant to archival research.
+- [Python_SQL_Day_1.ipynb](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/Python_SQL_Day_1.ipynb)  
+    Loading COVID testing data and exploring it in Google Colab.
+- [Oregon-Sugar-Document.ipynb](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/Oregon-Sugar-Document.ipynb)  
+    Processing tab-delimited text data relevant to archival research.
 
 #### Data Sources:  
 - [COVID Clinical Data](https://covidclinicaldata.org)  
@@ -162,12 +162,12 @@ This section covers Python lists, loops and conditionals for the first half, the
 - Understanding local vs cloud-based SQL environments
 
 ### Resources:
-- [Covid_Mock_Data.ipynb](Covid_Mock_Data.ipynb)  
-  Using generative AI to create synthetic datasets.
-- [Covid_Queries.ipynb](Covid_Queries.ipynb)  
-  Running SQL queries on COVID data in Google Colab.
-- [Covid_Queries_Local.ipynb](Covid_Queries_Local.ipynb)  
-  Local SQL querying via pandasql.
+- [Covid_Mock_Data.ipynb](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/Covid_Mock_Data.ipynb)  
+    Using generative AI to create synthetic datasets.
+- [Covid_Queries.ipynb](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/Covid_Queries.ipynb)  
+    Running SQL queries on COVID data in Google Colab.
+- [Covid_Queries_Local.ipynb](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/Covid_Queries_Local.ipynb)  
+    Local SQL querying via pandasql.
 
 ### Recordings:
 - [Data Analysis with Python and SQL Part 2 Workshop Recording](https://media.ucsf.edu/media/t/1_abvrwg4h)
@@ -182,7 +182,7 @@ This workshop contains material similar to Intro to Python and SQL Part 1 (above
 
 ### Resources:
 - Notebooks:
-  - [Python-Pandas-DuckDB-Covid-Data.ipynb](Python-Pandas-DuckDB-Covid-Data.ipynb)  
+  - [Python-Pandas-DuckDB-Covid-Data.ipynb](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/Python-Pandas-DuckDB-Covid-Data.ipynb)  
 
 ### Recordings:
 - [April 2026 Workshop Recording](https://media.ucsf.edu/media/t/1_cphabzd1)
@@ -200,15 +200,15 @@ This section covers how to work with Python dictionaries and parse JSON data fro
 
 ### Resources:
 - [Python-JSON-Workshop](https://github.com/geoffswc/Python-JSON-Workshop)  
-  Full Tutorial for working with APIs with Python and JSON.
-- [Python-Dictionaries.ipynb](Python-Dictionaries.ipynb)  
-  Introduction to dictionaries and key/value storage.
-- [Caffeine-Dictionary.ipynb](Caffeine-Dictionary.ipynb)  
-  Example project mapping caffeine content in beverages.
-- [Web-API-Python.ipynb](Web-API-Python.ipynb)  
-  Accessing and parsing data from RXNorm API.
-- [Industry_Documents_API.ipynb](Industry_Documents_API.ipynb) and [Industry-Documents-ApiB.ipynb](Industry-Documents-ApiB.ipynb)  
-  Using UCSF’s Industry Documents Library API for archival research.
+    Full Tutorial for working with APIs with Python and JSON.
+- [Python-Dictionaries.ipynb](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/Python-Dictionaries.ipynb)  
+    Introduction to dictionaries and key/value storage.
+- [Caffeine-Dictionary.ipynb](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/Caffeine-Dictionary.ipynb)  
+    Example project mapping caffeine content in beverages.
+- [Web-API-Python.ipynb](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/Web-API-Python.ipynb)  
+    Accessing and parsing data from RXNorm API.
+- [Industry_Documents_API.ipynb](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/Industry_Documents_API.ipynb) and [Industry-Documents-ApiB.ipynb](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/Industry-Documents-ApiB.ipynb)  
+    Using UCSF’s Industry Documents Library API for archival research.
 
 ### Recordings
 - [Python and Web APIs Workshop Recording](https://media.ucsf.edu/media/Python-Web-API/1_2j7irpnk)
@@ -222,15 +222,13 @@ APIs have always provided access to both data and functionality. In earlier vers
 
 ### 2026 Update Resources
 - [Ollama](https://ollama.com/)
-  Link to the Ollama open source platform, installation instructions, availble models, and sample use
-- [Ollama-Image-Summarization-OCR](Ollama-Image-Summarization-OCR.py)
-  A workbook showing use of Ollama to describe and image and extract embedded text
+    Link to the Ollama open source platform, installation instructions, availble models, and sample use
+- [Ollama-Image-Summarization-OCR](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/Ollama-Image-Summarization-OCR.py)
+    A workbook showing use of Ollama to describe and image and extract embedded text
 
 ---
 
 ## Image, Audio, and Video to Text Transcription with Python
-
-- mage, Audio, and Video to Text Transcription with Python
 
 Focuses on converting multimedia content to text using optical character recognition (OCR) and audio transcription tools.
 
@@ -241,14 +239,14 @@ Focuses on converting multimedia content to text using optical character recogni
 - Speaker diarization and clustering techniques
 
 ### Resources:
-- [Py_Tesseract_OCR.ipynb](Py_Tesseract_OCR.ipynb)  
-  Applying OCR to scanned images.
-- [Doctr_Ocr.ipynb](Doctr_Ocr.ipynb)  
-  Exploring other OCR tools.
-- [Whisper_AI_Transcription.ipynb](Whisper_AI_Transcription.ipynb)  
-  Audio/video transcription workflows.
-- [Whisper_Diarized_Pipeline.ipynb](Whisper_Diarized_Pipeline.ipynb)  
-  Diarization for speaker separation.
+- [Py_Tesseract_OCR.ipynb](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/Py_Tesseract_OCR.ipynb)  
+    Applying OCR to scanned images.
+- [Doctr_Ocr.ipynb](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/Doctr_Ocr.ipynb)  
+    Exploring other OCR tools.
+- [Whisper_AI_Transcription.ipynb](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/Whisper_AI_Transcription.ipynb)  
+    Audio/video transcription workflows.
+- [Whisper_Diarized_Pipeline.ipynb](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/Whisper_Diarized_Pipeline.ipynb)  
+    Diarization for speaker separation.
 
 ### Recordings
 
@@ -267,9 +265,8 @@ Introduction to annotating images and detecting objects using TensorFlow and clo
 - Using a GenAI approach to identifying objects in an image frame
 
 ### Resources:
-- [TensorFlow_Labels.ipynb](TensorFlow_Labels.ipynb)  
-  Hands-on object labeling with TensorFlow.  
-  [Notebook Link](https://github.com/geoffswc/Libguide-AI-Tools-Archival-Research/blob/main/TensorFlow_Labels.ipynb)
+- [TensorFlow_Labels.ipynb](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/TensorFlow_Labels.ipynb)  
+    Hands-on object labeling with TensorFlow.  
 - Google Vision API: https://cloud.google.com/vision
 - [Use a Hybrid GenAI approach to identify imagery in a video](https://github.com/geoffswc/Identify-Imagery-GenAI)
 
@@ -285,14 +282,14 @@ Covers foundational NLP techniques such as cleaning text, tokenization, stop wor
 - Working with multiple documents for corpus-level analysis
 
 ### Resources:
-- [Single-Text-Document.ipynb](Single-Text-Document.ipynb)  
-  Preprocessing a single text document.
-- [Multiple-Document.ipynb](Multiple-Document.ipynb)  
-  Extending techniques to multiple documents.
+- [Single-Text-Document.ipynb](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/Single-Text-Document.ipynb)  
+    Preprocessing a single text document.
+- [Multiple-Document.ipynb](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/Multiple-Document.ipynb)  
+    Extending techniques to multiple documents.
 
 ### Workshop Repository:
 - [Document Classification](https://github.com/geoffswc/Document-Classification)
-  Workbooks and tutorial links for document classification, including text preparation
+    Workbooks and tutorial links for document classification, including text preparation
 
 ### Sample dataset: 
 - https://ucsf.app.box.com/v/IDL-DataSets/file/780928732201
@@ -309,9 +306,9 @@ Introduction to supervised machine learning for classification problems using CO
 
 ### Resources:  
 - [Course Github Repository](https://github.com/geoffswc/Covid-Test-Predictions)
-  Repository for simple random forest model with minimal dataset
-- [ML-Covid-Data.ipynb](ML-Covid-Data.ipynb)
-  Machine learning code generated with ChatGPT and modified during the May 2026 workshop
+    Repository for simple random forest model with minimal dataset
+- [ML-Covid-Data.ipynb](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/ML-Covid-Data.ipynb)
+    Machine learning code generated with ChatGPT and modified during the May 2026 workshop
 
 ### Recordings
 [May 2026 Workshop Recording](https://media.ucsf.edu/media/Covid-ML-Scikit-Learn-05-2026/1_b2lfyedv?st=30)
@@ -328,10 +325,10 @@ Explores text classification techniques including bag-of-words, random forest cl
 - Using scikit-learn pipelines for streamlined workflows
 
 ### Resources:
-- [Random_Forest_Simple.ipynb](Random_Forest_Simple.ipynb)  
-  Simple example using two short movie reviews to illustrate sentiment analysis
-- [Movie_Review_Pipeline.ipynb](Movie_Review_Pipeline.ipynb)  
-  Classification example using movie review dataset from NLTK
+- [Random_Forest_Simple.ipynb](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/Random_Forest_Simple.ipynb)  
+    Simple example using two short movie reviews to illustrate sentiment analysis
+- [Movie_Review_Pipeline.ipynb](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/Movie_Review_Pipeline.ipynb)  
+    Classification example using movie review dataset from NLTK
 
 ### Links:
 - [Scikit-Learn](https://scikit-learn.org/stable/)
@@ -347,15 +344,15 @@ Explores text classification techniques including bag-of-words, random forest cl
 Unsupervised learning for discovering latent topics in text collections using K-Means Clustering.
 
 ### Workshop Resources:
-- [Simple-Kmeans.ipynb](Simple-Kmeans.ipynb)
-  Simple example using K-Means Clustering to illustrate unsupervised machine learning
-- [k-means-visualization.png](visualizations/k-means-visualization.png)
+- [Simple-Kmeans.ipynb](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/Simple-Kmeans.ipynb)
+    Simple example using K-Means Clustering to illustrate unsupervised machine learning
+- [k-means-visualization.png](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/visualizations/k-means-visualization.png)
 
 ### Tutorials and Code Samples
 - https://scikit-learn.org/stable/auto_examples/text/plot_document_clustering.html#sphx-glr-auto-examples-text-plot-document-clustering-py
-  Scikit-learn tutorial: Clustering text documents using k-means
+    Scikit-learn tutorial: Clustering text documents using k-means
 - https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2
-  LinkedIn Learning course on data science with python with a good tutorial on dimensionality reduction
+    LinkedIn Learning course on data science with python with a good tutorial on dimensionality reduction
 
 ### Recording
 - [Topic Modeling with Python and Scikit-Learn](https://media.ucsf.edu/media/t/1_r4k6ivfz)
@@ -372,12 +369,12 @@ Using external APIs and libraries like Google Cloud NLP, VADER, and zero-shot Hu
 
 ### Workbooks
 - HuggingFace Classifier for Text Classification
-  - Application to Multiple Advertising and Legal Documents from the IDL: [HuggingFaceClassifier.ipynb](HuggingFaceClassifier.ipynb)
-  - Application to Smoking-Related Documents from the IDL: [HuggingFace_ZeroShot_Classifier](HuggingFace_ZeroShot_Classifier.ipynb)
+  - Application to Multiple Advertising and Legal Documents from the IDL: [HuggingFaceClassifier.ipynb](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/HuggingFaceClassifier.ipynb)
+  - Application to Smoking-Related Documents from the IDL: [HuggingFace_ZeroShot_Classifier](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/HuggingFace_ZeroShot_Classifier.ipynb)
 
 - Vader for Text Sentiment Analysis
-  - Application to Multiple Movie Reviews: [Vader_Movie_Reviews.ipynb](Vader_Movie_Reviews.ipynb)
-  - Application to Smoking-Related Documents from the IDL: [Vader_Sentiment](Vader_Sentiment.ipynb)
+  - Application to Multiple Movie Reviews: [Vader_Movie_Reviews.ipynb](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/Vader_Movie_Reviews.ipynb)
+  - Application to Smoking-Related Documents from the IDL: [Vader_Sentiment](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/Vader_Sentiment.ipynb)
 
 ### Recording
 - [December 2025 Workshop](https://media.ucsf.edu/media/classification-sentiment-pretrained/1_h1pxglha)
@@ -411,7 +408,7 @@ Google BigQuery Sandbox: https://cloud.google.com/bigquery/docs/sandbox
 If you use this curriculum, code, or these workshop materials in your research or teaching, please cite them as follows:
 
 **APA:**
-Boushey, G. (2026). *CDocument Analysis with Python, SQL, Machine Learning, and AI* (Version 2.0.0). [Computer software]. UCSF Library. https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops
+Boushey, G. (2026). *Document Analysis with Python, SQL, Machine Learning, and AI* (Version 2.0.0). [Computer software]. UCSF Library. https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops
 
 **BibTeX:**
 ```bibtex
