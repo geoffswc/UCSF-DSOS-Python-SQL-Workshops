@@ -79,7 +79,7 @@ This section introduces fundamental Python programming concepts including variab
 - Notebooks:
   - [variables-functions.ipynb](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/variables-functions.ipynb)  
     Focus on variables, assignment, and basic functions.
-  - [lists-loops-conditionals.ipynb](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/lists-loops-conditionals.ipynb)  
+  - [lists-loops-conditionals.ipynb](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops/blob/main/Lists-Loops-Conditionals.ipynb)  
     Covers list manipulation, loops, and conditional statements.
 
 ### Recordings
