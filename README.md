@@ -408,14 +408,13 @@ Google BigQuery Sandbox: https://cloud.google.com/bigquery/docs/sandbox
 
 ## Citation
 
-If you use this curriculum, code, or these workshop materials in your research or teaching, please cite them as follows:
+If you use this curriculum, code, or these workshop materials in your research or teaching, please cite them using CITATION.cff or as follows:
 
 **APA:**
 Boushey, G. (2026). *Document Analysis with Python, SQL, Machine Learning, and AI* (Version 2.0.0). [Computer software]. UCSF Library. https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops
 
 **BibTeX:**
-```bibtex
-@software{Boushey_Document_Analysis_Python_SQL_AI_2026,
+<pre><code>@software{Boushey_Document_Analysis_Python_SQL_AI_2026,
   author = {Boushey, Geoffrey},
   title = {Document Analysis with Python, SQL, Machine Learning, and AI},
   url = {https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops},
@@ -423,4 +422,4 @@ Boushey, G. (2026). *Document Analysis with Python, SQL, Machine Learning, and A
   year = {2026},
   publisher = {UCSF Library}
 }
-```
+</code></pre>
