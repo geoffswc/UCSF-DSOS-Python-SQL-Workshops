@@ -376,14 +376,14 @@ Working with cloud SQL services such as the Google BigQuery sandbox to query lar
 If you use this curriculum, code, or these workshop materials in your research or teaching, please cite them using CITATION.cff or as follows:
 
 **APA:**
-> Boushey, G. (2026). *Document Analysis with Python, SQL, Machine Learning, and AI* (Version 2.0.0). [Computer software]. UCSF Library. https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops
+> Boushey, G. (2026). *Document Analysis with Python, SQL, Machine Learning, and AI* (Version 2.0.0). [Computer software]. UCSF Library. https://github.com/UCSD-DSOS/UCSF-DSOS-Python-SQL-Workshops
 
 **BibTeX:**
 ```bibtex
 @software{Boushey_Document_Analysis_Python_SQL_AI_2026,
   author    = {Boushey, Geoffrey},
   title     = {Document Analysis with Python, SQL, Machine Learning, and AI},
-  url       = {[https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops)},
+  url       = {[https://github.com/UCSF-DSOS/UCSF-DSOS-Python-SQL-Workshops](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops)},
   version   = {2.0.0},
   year      = {2026},
   publisher = {UCSF Library}
