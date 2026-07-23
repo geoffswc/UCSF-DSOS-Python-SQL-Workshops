@@ -1,8 +1,8 @@
 ## Overview
 
-This repository brings together code, data, and teaching resources used in the UCSF Library “Document Analysis with Python, SQL, and AI” workshop series. The materials are intended to support instruction in foundational programming, data analysis, and AI techniques relevant to data science, NLP, machine learning, text classification and sentiment analysis, and archival research.
+This repository provides a structured curriculum for computational text analysis, data management, and machine learning. The series progresses from core programming principles to advanced text classification, sentiment analysis, and archival research methodologies.
 
-The series starts with foundational Python and SQL programming, then moves into more complex topics including data analysis, document analysis, and AI-based research. Throughout the workshops, participants work with a range of data types—including numerical data, health data, text, and images/videos—and explore analysis techniques such as regression, classification, and sentiment analysis. The later sessions focus on text and document analysis, particularly using materials from the UCSF Industry Document Library.
+Through hands-on coding exercises, participants work with diverse data formats, including numerical records, health data, and text collections—drawing heavily upon primary source materials from the UCSF Industry Document Library. Sessions emphasize applied practice, integrating conceptual frameworks directly with technical execution.
 
 The focus of the series is to help participants build practical skills through hands-on work. Sessions emphasize applied coding, with lectures and theory used to support the exercises.
 
