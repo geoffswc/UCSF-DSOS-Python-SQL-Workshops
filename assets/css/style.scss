@@ -125,3 +125,14 @@ footer {
   border-top: 1px solid #e5e5e5;
   clear: both !important;
 }
+
+/* 8. Make .ipynb Notebook Links Stand Out in Blue */
+section a[href$=".ipynb"] {
+  color: #0969da !important;
+  font-weight: 600 !important;
+  text-decoration: underline !important;
+}
+
+section a[href$=".ipynb"]:hover {
+  color: #0550ae !important;
+}
