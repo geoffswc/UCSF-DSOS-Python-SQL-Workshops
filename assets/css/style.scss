@@ -73,3 +73,18 @@ footer {
   border-top: 1px solid #e5e5e5;
   clear: both !important;
 }
+
+/* Fix BibTeX and Code Block Formatting */
+pre, code {
+  white-space: pre-wrap !important;       /* Wraps long text/BibTeX lines instead of overflowing */
+  word-break: break-word !important;      /* Breaks long URLs or citation keys if needed */
+  font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace !important;
+}
+
+pre {
+  background-color: #f6f8fa !important;  /* Light gray background box */
+  border: 1px solid #d0d7de !important;   /* Subtle border */
+  border-radius: 6px !important;         /* Rounded corners */
+  padding: 1rem !important;               /* Padding inside the box */
+  overflow-x: auto !important;           /* Fallback scrolling if needed */
+}
