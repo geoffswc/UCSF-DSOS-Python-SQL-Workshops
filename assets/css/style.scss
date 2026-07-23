@@ -5,21 +5,31 @@
 
 /* 1. Boost Base Typography */
 body {
-  font-size: 18px !important; /* Increases standard paragraph text size */
-  line-height: 1.6 !important; /* Gives text comfortable breathing room */
+  font-size: 18px !important;
+  line-height: 1.6 !important;
 }
 
-/* Adjust heading sizes proportionally */
 h1 { font-size: 2.25rem !important; }
 h2 { font-size: 1.75rem !important; }
 h3 { font-size: 1.35rem !important; }
 
-/* Keep code blocks easy to read */
 code, pre {
   font-size: 16px !important;
 }
 
-/* 2. Set global container width */
+/* 2. Clear, Visible Links */
+section a, header a, footer a {
+  color: #0969da !important;             /* Distinct GitHub-style blue */
+  text-decoration: underline !important;  /* Underline so they instantly look like links */
+  font-weight: 500 !important;
+}
+
+section a:hover, header a:hover, footer a:hover {
+  color: #0550ae !important;             /* Darker blue on hover */
+  text-decoration: underline !important;
+}
+
+/* 3. Set global container width */
 .wrapper {
   max-width: 1000px !important;
   width: 90% !important;
@@ -27,7 +37,7 @@ code, pre {
   position: static !important;
 }
 
-/* 3. Un-fix header and move it cleanly to the top */
+/* 4. Un-fix header and move it cleanly to the top */
 header {
   float: none !important;
   width: 100% !important;
@@ -37,19 +47,18 @@ header {
   border-bottom: 1px solid #e5e5e5;
 }
 
-/* Remove default fixed header navigation positioning */
 header ul {
   position: static !important;
 }
 
-/* 4. Let main section take full width below header */
+/* 5. Let main section take full width below header */
 section {
   float: none !important;
   width: 100% !important;
   position: static !important;
 }
 
-/* 5. Un-fix footer & metadata ("Maintained by...") so it sits at the bottom */
+/* 6. Un-fix footer & metadata ("Maintained by...") so it sits at the bottom */
 footer {
   float: none !important;
   width: 100% !important;
