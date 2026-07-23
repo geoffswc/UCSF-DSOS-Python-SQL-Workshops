@@ -3,7 +3,23 @@
 
 @import "{{ site.theme }}";
 
-/* 1. Set global container width */
+/* 1. Boost Base Typography */
+body {
+  font-size: 18px !important; /* Increases standard paragraph text size */
+  line-height: 1.6 !important; /* Gives text comfortable breathing room */
+}
+
+/* Adjust heading sizes proportionally */
+h1 { font-size: 2.25rem !important; }
+h2 { font-size: 1.75rem !important; }
+h3 { font-size: 1.35rem !important; }
+
+/* Keep code blocks easy to read */
+code, pre {
+  font-size: 16px !important;
+}
+
+/* 2. Set global container width */
 .wrapper {
   max-width: 1000px !important;
   width: 90% !important;
@@ -11,7 +27,7 @@
   position: static !important;
 }
 
-/* 2. Un-fix header and move it cleanly to the top */
+/* 3. Un-fix header and move it cleanly to the top */
 header {
   float: none !important;
   width: 100% !important;
@@ -26,14 +42,14 @@ header ul {
   position: static !important;
 }
 
-/* 3. Let main section take full width below header */
+/* 4. Let main section take full width below header */
 section {
   float: none !important;
   width: 100% !important;
   position: static !important;
 }
 
-/* 4. Un-fix footer & metadata ("Maintained by...") so it sits at the bottom */
+/* 5. Un-fix footer & metadata ("Maintained by...") so it sits at the bottom */
 footer {
   float: none !important;
   width: 100% !important;
