@@ -17,16 +17,16 @@ code, pre {
   font-size: 16px !important;
 }
 
-/* 2. Clear, Visible Links */
+/* 2. Clear, Visible Links (No Underline) */
 section a, header a, footer a {
-  color: #0969da !important;             /* Distinct GitHub-style blue */
-  text-decoration: underline !important;  /* Underline so they instantly look like links */
+  color: #0969da !important;             /* Distinct GitHub blue */
+  text-decoration: none !important;     /* Removes underlines */
   font-weight: 500 !important;
 }
 
 section a:hover, header a:hover, footer a:hover {
-  color: #0550ae !important;             /* Darker blue on hover */
-  text-decoration: underline !important;
+  color: #0550ae !important;             /* Slightly darker blue on hover */
+  text-decoration: none !important;     /* Keeps clean look on hover */
 }
 
 /* 3. Set global container width */
