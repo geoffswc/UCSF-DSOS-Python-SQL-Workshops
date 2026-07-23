@@ -1,1 +1,5 @@
-theme: jekyll-theme-architect
+# Use the minimal theme layout (which doesn't wrap the title in a link)
+theme: jekyll-theme-minimal
+
+# Set the plain text title for the browser tab
+title: "Data and Document Analysis with Python, SQL, and AI"
