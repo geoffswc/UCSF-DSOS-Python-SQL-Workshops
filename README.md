@@ -30,7 +30,8 @@ The focus of the series is to help participants build practical skills through h
 18. [Sharing, Versioning, and Collaborating with Git and GitHub](#sharing-versioning-and-collaborating-with-git-and-github)
 19. [Cloud-Based SQL Database and AI Integrations](#cloud-based-sql-database-and-ai-integrations)
 20. [Citation](#citation)
-
+21. [About the Instructor](#instructor)
+22. [Upcoming Sessions](#upcoming-sessions)
 ---
 
 ## Note on Integrating AI tools into the workshop series
@@ -387,3 +388,11 @@ If you use this curriculum, code, or these workshop materials in your research o
   publisher = {UCSF Library}
 }
 ```
+
+## Instructor
+
+Geoffrey Boushey is a computational and research data science specialist at UCSF and a member of the Library's Data Science and Open Scholarship team. Geoff teaches courses and provides consultations on foundational programming, data analysis, and AI techniques including Python, SQL, Unix, and Version Control.
+
+## Upcoming Sessions
+
+To check if this workshop series is being delivered in person within the next three months, see the [Data Science Initiative Calendar](https://library.ucsf.edu/data-science). All members of the UCSF community are welcome to register.
