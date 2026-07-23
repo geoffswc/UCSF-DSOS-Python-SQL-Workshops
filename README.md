@@ -388,3 +388,4 @@ If you use this curriculum, code, or these workshop materials in your research o
   year      = {2026},
   publisher = {UCSF Library}
 }
+```
