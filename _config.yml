@@ -1,3 +1,6 @@
+# remove the auto-generated title with name of github repository
+title: false
+
 # Use the minimal theme layout (which doesn't wrap the title in a link)
 theme: jekyll-theme-minimal
 
