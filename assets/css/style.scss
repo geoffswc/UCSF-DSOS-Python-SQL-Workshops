@@ -3,7 +3,25 @@
 
 @import "{{ site.theme }}";
 
-/* Add a little breathing room at the top of the main page */
-.main-content, main, .wrapper {
-  padding-top: 2rem !important;
+/* Force top-to-bottom stacked layout instead of left-right split */
+.wrapper {
+  max-width: 1100px !important;
+  width: 90% !important;
+  margin: 0 auto !important;
+}
+
+/* Move left sidebar header to the top */
+header {
+  float: none !important;
+  width: 100% !important;
+  position: static !important;
+  margin-bottom: 2rem !important;
+  border-bottom: 1px solid #e5e5e5;
+  padding-bottom: 1.5rem !important;
+}
+
+/* Let main content expand to full width below header */
+section {
+  float: none !important;
+  width: 100% !important;
 }
