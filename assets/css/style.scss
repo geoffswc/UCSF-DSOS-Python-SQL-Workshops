@@ -126,14 +126,19 @@ footer {
   clear: both !important;
 }
 
-/* 8. Make .ipynb Notebook Links Stand Out in Blue */
-section a[href$=".ipynb"] {
+/* 8. Make .ipynb Notebook Links Stand Out (Higher Specificity) */
+section div a[href$=".ipynb"],
+section p a[href$=".ipynb"],
+section li a[href$=".ipynb"] {
   color: #0969da !important;
   font-weight: 600 !important;
   text-decoration: none !important;
 }
 
-section a[href$=".ipynb"]:hover {
+section div a[href$=".ipynb"]:hover,
+section p a[href$=".ipynb"]:hover,
+section li a[href$=".ipynb"]:hover {
   color: #0550ae !important;
+  text-decoration: underline !important;
 }
 
