@@ -17,53 +17,105 @@ code, pre {
   font-size: 16px !important;
 }
 
-/* 2. Clear, Visible Links with Clean Hover Signal */
-section a, header a, footer a {
-  color: #0969da !important;             /* Distinct GitHub blue */
-  text-decoration: none !important;     /* No static underline */
-  font-weight: 500 !important;
-  padding: 2px 4px !important;           /* Tiny padding for smooth hover bubble */
-  margin: -2px -4px !important;          /* Prevents text layout shifting */
-  border-radius: 4px !important;        /* Soft rounded corners */
-  transition: background-color 0.15s ease, color 0.15s ease !important; /* Smooth animation */
+/* 2. Force Code Blocks and BibTeX to Wrap Cleanly */
+pre, 
+code, 
+.highlight, 
+.highlight pre, 
+.highlight code,
+.highlighter-rouge, 
+div.highlighter-rouge {
+  white-space: pre-wrap !important;
+  word-break: break-all !important;
+  word-wrap: break-word !important;
+  overflow-x: hidden !important;
+  max-width: 100% !important;
+  font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace !important;
 }
 
-section a:hover, header a:hover, footer a:hover {
-  color: #0550ae !important;             /* Deeper blue text on hover */
-  background-color: #ddf4ff !important;   /* Soft, light-blue highlight bubble */
+.highlight pre, pre {
+  background-color: #f6f8fa !important;
+  border: 1px solid #d0d7de !important;
+  border-radius: 6px !important;
+  padding: 1rem !important;
+  margin: 1rem 0 !important;
+}
+
+/* 3. Style the Header into a Unified "Hero" Card */
+header {
+  float: none !important;
+  width: 100% !important;
+  position: static !important;
+  background-color: #f6f8fa !important;
+  border: 1px solid #d0d7de !important;
+  border-radius: 8px !important;
+  padding: 2rem !important;
+  margin-bottom: 2rem !important;
+}
+
+header h1 {
+  color: #1f2328 !important;
+  margin-top: 0 !important;
+  margin-bottom: 0.5rem !important;
+}
+
+header p {
+  color: #57606a !important;
+  font-size: 1.1rem !important;
+  margin-bottom: 1.5rem !important;
+}
+
+/* Style the GitHub repo download button nicely */
+header ul {
+  position: static !important;
+  display: flex !important;
+  gap: 1rem !important;
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+header ul li a {
+  background-color: #2ea44f !important; /* GitHub green button style */
+  color: #ffffff !important;
+  padding: 0.5rem 1rem !important;
+  border-radius: 6px !important;
+  font-weight: 600 !important;
   text-decoration: none !important;
+  display: inline-block !important;
 }
 
-/* 3. Set global container width */
+header ul li a:hover {
+  background-color: #2c974b !important;
+}
+
+/* 4. Clear, Visible Links in Content */
+section a {
+  color: #0969da !important;
+  text-decoration: none !important;
+  font-weight: 500 !important;
+}
+
+section a:hover {
+  text-decoration: underline !important;
+}
+
+/* 5. Set global container width */
 .wrapper {
-  max-width: 1000px !important;
+  max-width: 900px !important;
   width: 90% !important;
   margin: 0 auto !important;
   position: static !important;
 }
 
-/* 4. Un-fix header and move it cleanly to the top */
-header {
-  float: none !important;
-  width: 100% !important;
-  position: static !important;
-  margin-bottom: 2rem !important;
-  padding-bottom: 1.5rem !important;
-  border-bottom: 1px solid #e5e5e5;
-}
-
-header ul {
-  position: static !important;
-}
-
-/* 5. Let main section take full width below header */
+/* 6. Main section full width below header */
 section {
   float: none !important;
   width: 100% !important;
   position: static !important;
 }
 
-/* 6. Un-fix footer & metadata ("Maintained by...") so it sits at the bottom */
+/* 7. Clean footer */
 footer {
   float: none !important;
   width: 100% !important;
@@ -72,19 +124,4 @@ footer {
   padding-top: 1.5rem !important;
   border-top: 1px solid #e5e5e5;
   clear: both !important;
-}
-
-/* Fix BibTeX and Code Block Formatting */
-pre, code {
-  white-space: pre-wrap !important;       /* Wraps long text/BibTeX lines instead of overflowing */
-  word-break: break-word !important;      /* Breaks long URLs or citation keys if needed */
-  font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace !important;
-}
-
-pre {
-  background-color: #f6f8fa !important;  /* Light gray background box */
-  border: 1px solid #d0d7de !important;   /* Subtle border */
-  border-radius: 6px !important;         /* Rounded corners */
-  padding: 1rem !important;               /* Padding inside the box */
-  overflow-x: auto !important;           /* Fallback scrolling if needed */
 }
