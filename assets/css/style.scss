@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Hide the auto-generated theme header banner and link */
+header, .site-header, .page-header {
+  display: none !important;
+}
+
+/* Add a little breathing room at the top of the main page */
+.main-content, main, .wrapper {
+  padding-top: 2rem !important;
+}
