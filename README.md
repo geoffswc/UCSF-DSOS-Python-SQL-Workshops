@@ -1,7 +1,7 @@
 # Data and Document Analysis with Python, SQL, and AI
 
-* **Pages View**: [geoffswc.github.io/UCSF-DSOS-Python-SQL-Workshops](https://geoffswc.github.io/UCSF-DSOS-Python-SQL-Workshops)
-* **File View**: [github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops](https://github.com/geoffswc/UCSF-DSOS-Python-SQL-Workshops)
+* **Pages View**: [https://ucsf-dsos.github.io/UCSF-DSOS-Python-SQL-Workshops/](https://ucsf-dsos.github.io/UCSF-DSOS-Python-SQL-Workshops/)
+* **File View**: [https://github.com/UCSF-DSOS/UCSF-DSOS-Python-SQL-Workshops/](https://github.com/UCSF-DSOS/UCSF-DSOS-Python-SQL-Workshops/)
 
 ## Overview
 
