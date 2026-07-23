@@ -367,7 +367,7 @@ Introduces version control and collaborative workflows using Git and GitHub, inc
 Working with cloud SQL services such as the Google BigQuery sandbox to query large public datasets without requiring paid accounts.
 
 * [Google BigQuery Sandbox](https://cloud.google.com/bigquery/docs/sandbox)
-
+  
 ---
 
 ## Citation
@@ -389,9 +389,13 @@ If you use this curriculum, code, or these workshop materials in your research o
 }
 ```
 
+--- 
+
 ## Instructor
 
 Geoffrey Boushey is a computational and research data science specialist at UCSF and a member of the Library's Data Science and Open Scholarship team. Geoff teaches courses and provides consultations on foundational programming, data analysis, and AI techniques including Python, SQL, Unix, and Version Control.
+
+--- 
 
 ## Upcoming Sessions
 
