@@ -130,9 +130,10 @@ footer {
 section a[href$=".ipynb"] {
   color: #0969da !important;
   font-weight: 600 !important;
-  text-decoration: underline !important;
+  text-decoration: none !important;
 }
 
 section a[href$=".ipynb"]:hover {
   color: #0550ae !important;
 }
+
