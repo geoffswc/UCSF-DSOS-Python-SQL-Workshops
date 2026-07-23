@@ -32,6 +32,7 @@ The focus of the series is to help participants build practical skills through h
 20. [Citation](#citation)
 21. [Instructor](#instructor)
 22. [Upcoming Sessions](#upcoming-sessions)
+
 ---
 
 ## Note on Integrating AI tools into the workshop series
