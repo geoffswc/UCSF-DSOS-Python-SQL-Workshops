@@ -1,6 +1,6 @@
 ## Overview
 
-This repository provides a structured curriculum for computational text analysis, data management, and machine learning. The series progresses from core programming principles to advanced text classification, sentiment analysis, and archival research methodologies.
+This repository provides a structured curriculum for computational text analysis and data management, with an emphasis on machine learning and generative AI. The series progresses from core programming principles to advanced text classification, sentiment analysis, and archival research.
 
 Through hands-on coding exercises, participants work with diverse data formats, including numerical records, health data, and text collections—drawing heavily upon primary source materials from the UCSF Industry Document Library. Sessions emphasize applied practice, integrating conceptual frameworks directly with technical execution.
 
