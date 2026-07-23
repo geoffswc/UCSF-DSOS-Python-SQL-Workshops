@@ -17,16 +17,21 @@ code, pre {
   font-size: 16px !important;
 }
 
-/* 2. Clear, Visible Links (No Underline) */
+/* 2. Clear, Visible Links with Clean Hover Signal */
 section a, header a, footer a {
   color: #0969da !important;             /* Distinct GitHub blue */
-  text-decoration: none !important;     /* Removes underlines */
+  text-decoration: none !important;     /* No static underline */
   font-weight: 500 !important;
+  padding: 2px 4px !important;           /* Tiny padding for smooth hover bubble */
+  margin: -2px -4px !important;          /* Prevents text layout shifting */
+  border-radius: 4px !important;        /* Soft rounded corners */
+  transition: background-color 0.15s ease, color 0.15s ease !important; /* Smooth animation */
 }
 
 section a:hover, header a:hover, footer a:hover {
-  color: #0550ae !important;             /* Slightly darker blue on hover */
-  text-decoration: none !important;     /* Keeps clean look on hover */
+  color: #0550ae !important;             /* Deeper blue text on hover */
+  background-color: #ddf4ff !important;   /* Soft, light-blue highlight bubble */
+  text-decoration: none !important;
 }
 
 /* 3. Set global container width */
